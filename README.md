@@ -8,7 +8,6 @@
 |4|20120258|Lâm Quốc Chung|20120258@student.hcmus.edu.vn|
 - Link Google Meet: https://meet.google.com/cbd-nbiy-nvq
 - Link Trello: https://trello.com/b/3IwUJh7Z/nh%C3%B3m-06
-- Link github các API free: https://github.com/public-apis/public-apis
 ## II. THÔNG TIN VỀ DỮ LIỆU PROJECT_01
 ### 1) Công cụ, thư viện thực hiện project:
 - Scrapy: https://docs.scrapy.org/en/latest/
