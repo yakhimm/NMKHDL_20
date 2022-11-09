@@ -14,5 +14,6 @@
 - Pandas: https://pandas.pydata.org/docs/reference/
 - Matplotlib: https://matplotlib.org/stable/plot_types/index
 ### 2) Nguồn dữ liệu:
+- Tên đề tài dữ liệu: Ô NHIỄM MÔI TRƯỜNG
 - Từ trang web ô về vấn đề ô nhiễm môi trường https://www.iqair.com
 - URL crawl dữ liệu: https://www.iqair.com/vi/world-most-polluted-cities?sort=-rank&page=1&perPage=50
