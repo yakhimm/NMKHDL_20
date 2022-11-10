@@ -35,11 +35,11 @@
 - Hầu như các cột đều có dữ liệu là float, khoảng dữ liệu biểu diễn [0, +oo]. Tuy nhiên cột thành phố có kiểu dữ liệu là string và có thể tiền xử lý là phân tách thành 2 cột khác nhau, 1 cột là Thành phố, 1 cột là Quốc gia.
 - Với mỗi cột dữ liệu phân bố tương đối đều, tuy nhiên có một số cột sẽ không có đủ dữ liệu do có thể là thời gian đó không có người ghi nhận tình hình nên không thể thống kê số liệu cụ thể.
 ### C. Đặt câu hỏi có ý nghĩa để trả lời:
-#### 1) CÂU 1: Đâu là thành phố, quốc gia có mật độ ô nhiễm cao nhất, thấp nhất trong 5 năm 2017 - 2021.
-#### 2) CÂU 2: Việt Nam nằm trong top bao nhiêu, với mật độ ô nhiễm là bao nhiêu qua từng năm (2017 - 2021).
-#### 3) CÂU 3: Địa điểm nào tại Việt Nam có mật độ ô nhiễm cao nhất, thấp nhất trong 5 năm 2017 - 2021. Dựa trên dự đoán của 2022 thì đâu là địa điểm có khí hậu tốt nhất vào cuối năm (tháng 12) 2022.
-#### 4) CÂU 4:
-#### 5) CÂU 5:
+- **CÂU 1**: Đâu là thành phố, quốc gia có mật độ ô nhiễm cao nhất, thấp nhất trong 5 năm 2017 - 2021.
+- **CÂU 2**: Việt Nam nằm trong top bao nhiêu, với mật độ ô nhiễm là bao nhiêu qua từng năm (2017 - 2021).
+- **CÂU 3**: Địa điểm nào tại Việt Nam có mật độ ô nhiễm cao nhất, thấp nhất trong 5 năm 2017 - 2021. Dựa trên dự đoán của 2022 thì đâu là địa điểm có khí hậu tốt nhất vào cuối năm (tháng 12) 2022.
+- **CÂU 4**:
+- **CÂU 5**:
 ...
 ## III. CÔNG CỤ ĐỂ THỰC HIỆN PROJECT:
 - Scrapy: https://docs.scrapy.org/en/latest/
