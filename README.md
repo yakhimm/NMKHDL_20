@@ -8,6 +8,7 @@
 |4|20120258|Lâm Quốc Chung|20120258@student.hcmus.edu.vn|
 - Link Google Meet: https://meet.google.com/cbd-nbiy-nvq
 - Link Trello: https://trello.com/b/3IwUJh7Z/nh%C3%B3m-06
+- Link Google Drive: https://drive.google.com/drive/u/0/folders/1C-pl17tjqsUDnD0-LzaP8nF-FGcX9GqT
 ## II. QUY TRÌNH KHOA HỌC DỮ LIỆU
 ### A. Thu thập dữ liệu: 
 #### 1) Yêu cầu dữ liệu:
