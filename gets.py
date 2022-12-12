@@ -11,7 +11,7 @@ def get_weather_air(url):
     for detail in div_weather_detail:
         details = detail.find_all('td')
         weather_air[details[0].get_text()] = details[1].get_text()
-
+    
     # Air
     table_aqi = soup.find('table', {'class' : 'aqi-overview-detail__other-pollution-table'}).find('tbody')
     details = table_aqi.find_all('tr')
@@ -23,6 +23,7 @@ def get_weather_air(url):
 
     # Chất lượng không khí
     target_aqi = soup.find('div', {'class': 'aqi-value-wrapper'}).find('span', {'class': 'aqi-status__text'})
-    weather_air['target'] = target_aqi.get_text() 
+    weather_air['target'] = target_aqi.get_text()
 
+    print(url)
     return weather_air
