@@ -1,0 +1,999 @@
+Thời tiết,Nhiệt độ,Độ ẩm,Gió,Áp suất, PM2.5 , PM10 , O3 , NO2 , SO2 , CO ,target
+Trời quang,14°C,36%,11.5 km/h,1016 mbar,39.1,201.9,9.9,80,18.4,380.4,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,15°C,28%,14.7 km/h,1015 mbar,65.7,177.8,10,44.9,13.6,880,Không lành mạnh
+Trời quang,-2°C,47%,1.3 km/h,1032 mbar,135,478.5,25.5,67,35.5,2300,Nguy hiểm
+Sương mù,15°C,63%,11.1 km/h,1016 mbar,72.4,150.3,14.3,29.8,5.3,840,Không lành mạnh
+Trời quang,17°C,35%,12.6 km/h,1013 mbar,54.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,15°C,33%,9.9 km/h,1017 mbar,38.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,15°C,26%,14.3 km/h,1015 mbar,42.2,129.6,28,56.3,9.6,800,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,17°C,28%,13.2 km/h,1018 mbar,74,,,,,,Không lành mạnh
+Sương mù,11°C,66%,7.4 km/h,1018 mbar,148,,,,,,Không lành mạnh
+Trời quang,16°C,32%,11.7 km/h,1016 mbar,46.4,,,,5.6,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,15°C,28%,13.6 km/h,1015 mbar,55.9,168.7,20,16.4,16,1450,Không lành mạnh
+Trời quang,15°C,27%,13.8 km/h,1014 mbar,64.2,180.8,3,,7.2,,Không lành mạnh
+Trời quang,15°C,33%,11.5 km/h,1016 mbar,45.8,,,,8.8,,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,14°C,67%,7.4 km/h,1016 mbar,146,,,,,,Không lành mạnh
+Sương mù,15°C,88%,3.7 km/h,1014 mbar,58.1,153.7,28,30,9.6,1000,Không lành mạnh
+Trời quang,15°C,35%,12.8 km/h,1015 mbar,45.8,78,11,,3.2,,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,15°C,63%,11.1 km/h,1016 mbar,76.8,146.2,14,28.8,6.4,875,Không lành mạnh
+Trời quang,-3°C,53%,4.3 km/h,1032 mbar,213,565,8.5,94.5,15,4650,Nguy hiểm
+Trời quang,17°C,30%,13.4 km/h,1014 mbar,31,98,23,53.1,31.2,660,Trung bình
+Trời quang,17°C,37%,8 km/h,1013 mbar,286.5,432.2,21,11.6,9.6,1970,Nguy hiểm
+Trời quang,17°C,38%,12.2 km/h,1013 mbar,30.8,54.5,7.5,41.6,18.4,1100,Trung bình
+Trời quang,15°C,34%,11.4 km/h,1017 mbar,38.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,17°C,33%,13.7 km/h,1014 mbar,71.8,186.8,,39.2,12,,Không lành mạnh
+Trời quang,17°C,32%,16.3 km/h,1014 mbar,81.5,167.2,36.5,44.1,6,600,Không lành mạnh
+Trời quang,16°C,34%,12.8 km/h,1015 mbar,32.2*,,,,,,Trung bình
+Trời quang,17°C,33%,8.7 km/h,1013 mbar,304,,42,120,33.6,3380,Nguy hiểm
+Sương mù,21°C,68%,0 km/h,1013 mbar,294.5,,,,,,Nguy hiểm
+Nhiều mây,27°C,13%,13.8 km/h,1011 mbar,27,,,,,,Trung bình
+Trời quang,15°C,36%,11.6 km/h,1016 mbar,109.8,251,23,,10.4,480,Không lành mạnh
+Trời quang,20°C,31%,5.7 km/h,1013 mbar,91.6,215.4,2,30.4,17.6,,Không lành mạnh
+Nhiều mây,-13°C,94%,6.3 km/h,1041 mbar,11.5,13,,45.5,18.6,,Tốt
+Trời quang,15°C,34%,15.4 km/h,1014 mbar,40.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,21°C,58%,5.2 km/h,1012 mbar,282,,,,,,Nguy hiểm
+Trời quang,15°C,33%,11.2 km/h,1016 mbar,51.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,17°C,35%,12.2 km/h,1015 mbar,24,47,18,24.8,16.8,600,Trung bình
+Trời quang,15°C,34%,13.9 km/h,1014 mbar,74.5,147.7,,,,,Không lành mạnh
+Nhiều mây,-15°C,99%,6.9 km/h,1040 mbar,0.9,1.3,,,,,Tốt
+Trời quang,13°C,36%,12.4 km/h,1016 mbar,73.6,139,,,7.2,,Không lành mạnh
+Trời quang,14°C,34%,13.8 km/h,1015 mbar,40.5,140.1,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-14°C,98%,7.2 km/h,1041 mbar,43.5,43.8,,5.1,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,18°C,26%,16.5 km/h,1016 mbar,51.7,129.6,,,10.4,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-19°C,77%,3.6 km/h,1037 mbar,13.1*,,,,,,Trung bình
+Trời quang,18°C,42%,6.5 km/h,1014 mbar,72.4,25.6,5,10.3,20.4,,Không lành mạnh
+Nhiều mây,26°C,56%,7.7 km/h,1011 mbar,66.3,,,,,,Không lành mạnh
+Nhiều mây,3°C,91%,3.1 km/h,1020 mbar,53,,0.1,38.4,6.7,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,14°C,34%,17.7 km/h,1015 mbar,27.6,63,13,7.2,,,Trung bình
+Trời quang,16°C,33%,12.6 km/h,1016 mbar,34.6,,,,5.6,,Trung bình
+Trời quang,17°C,32%,13.5 km/h,1014 mbar,44.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,-3°C,86%,7.2 km/h,1025 mbar,175.1,316.3,,,,,Rất không lành mạnh
+Trời quang,15°C,34%,8.8 km/h,1016 mbar,25.2,,5,,6.4,,Trung bình
+Trời quang,19°C,31%,7.7 km/h,1013 mbar,143.8,,,,14.8,,Không lành mạnh
+Sương mù,1°C,93%,0 km/h,1025 mbar,30,,,,,,Trung bình
+Sương mù,22°C,68%,0 km/h,1012 mbar,173.1,307.8,7.3,30.7,12.4,2339,Rất không lành mạnh
+Sương mù,-1°C,100%,21.6 km/h,1028 mbar,223.5,251.8,,,,,Rất không lành mạnh
+Trời quang,13°C,37%,10.4 km/h,1016 mbar,39.9,91,18,,4.8,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,16°C,34%,14.9 km/h,1014 mbar,27.6,64,,,,,Trung bình
+Trời quang,17°C,34%,8.5 km/h,1013 mbar,197.9,489.9,3,52.5,4.8,5130,Nguy hiểm
+Sương mù,22°C,73%,11.1 km/h,1012 mbar,129.4,233.6,21.4,54.6,10.3,1290,Không lành mạnh
+Trời quang,15°C,36%,13.9 km/h,1015 mbar,41.1,104,,,2.4,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,16°C,32%,12.5 km/h,1016 mbar,47.6,,,,18.4,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,19°C,39%,5 km/h,1016 mbar,70.7,,,,,,Không lành mạnh
+Sương mù,15°C,59%,0 km/h,1018 mbar,59.4,111.5,11,75.9,16.8,1740,Không lành mạnh
+Sương mù,28°C,61%,9.3 km/h,1010 mbar,54.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,18°C,27%,16.4 km/h,1016 mbar,42.1,119.7,31,23.2,11.9,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-14°C,85%,5.6 km/h,1036 mbar,111,137,15,55,7.5,750,Không lành mạnh
+Trời quang,-1°C,20%,2.4 km/h,1036 mbar,24,89,15,47,3,400,Trung bình
+Sương mù,25°C,47%,9.3 km/h,1014 mbar,81.9,175,5.2,79.3,,0,Không lành mạnh
+Trời quang,15°C,38%,12.6 km/h,1016 mbar,76.5,140.1,54.1,54.7,15.2,300,Không lành mạnh
+Trời quang,14°C,37%,15.1 km/h,1015 mbar,28.2,55,,,9.6,,Trung bình
+Trời quang,16°C,32%,11.8 km/h,1016 mbar,51.1,78,,,20,,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,18°C,100%,0 km/h,1013 mbar,173.1,242.5,29,2.4,13.6,1670,Rất không lành mạnh
+Trời quang,-4°C,16%,9.9 km/h,1035 mbar,35.5,82.5,22,42,28,400,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,17°C,98%,0.5 km/h,1014 mbar,54,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,16°C,39%,10.5 km/h,1015 mbar,68,,,,,,Không lành mạnh
+Nhiều mây,28°C,67%,15 km/h,1009 mbar,23,,,,,,Trung bình
+Mây rải rác,-4°C,18%,7.2 km/h,1036 mbar,37,106.5,4,49.5,6,750,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,14°C,60%,8.2 km/h,1017 mbar,82,,,,,,Không lành mạnh
+Trời quang,-5°C,57%,1.2 km/h,1033 mbar,108,387,13,74,13,,Rất không lành mạnh
+Sương mù,9°C,87%,5.5 km/h,1017 mbar,95.5,,,,,,Không lành mạnh
+Trời quang,-4°C,16%,5.2 km/h,1035 mbar,32.5,96,7.5,54,6,650,Trung bình
+Trời quang,4°C,28%,5.8 km/h,1034 mbar,32,108,33.5,33.5,10,600,Trung bình
+Trời quang,20°C,64%,1.8 km/h,1018 mbar,21.1*,,,,,,Trung bình
+Nhiều mây,-15°C,88%,4 km/h,1036 mbar,169,199.5,7.5,73,7,1350,Rất không lành mạnh
+Nhiều mây,-23°C,98%,4.5 km/h,1030 mbar,106.5,,,,,,Không lành mạnh
+Trời quang,0°C,33%,10.6 km/h,1035 mbar,56,199,28.5,35,7.5,550,Không lành mạnh
+Trời quang,13°C,37%,14.2 km/h,1016 mbar,31,95,17,,,,Trung bình
+Trời quang,19°C,42%,18.5 km/h,1015 mbar,59,,,,,,Không lành mạnh
+Nhiều mây,-5°C,38%,0.8 km/h,1032 mbar,86,221,23,62.5,9.5,2700,Không lành mạnh
+Trời quang,-6°C,22%,4.2 km/h,1035 mbar,12,58,26.5,29,13,650,Trung bình
+Trời quang,-4°C,17%,6.9 km/h,1035 mbar,30,93.5,23.5,50.5,10.5,550,Trung bình
+Ít mây,-2°C,27%,7 km/h,1036 mbar,42,96,24,37,15,800,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,14°C,32%,9.8 km/h,1015 mbar,44.6,,,,5.6,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-14°C,65%,9.9 km/h,1032 mbar,238.8,,,,,,Rất không lành mạnh
+Trời quang,-5°C,23%,7.6 km/h,1035 mbar,17,54.5,35,26.5,12.5,400,Trung bình
+Sương mù,18°C,63%,14.8 km/h,1018 mbar,49.4,,,12.8,14.4,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-1°C,20%,10.4 km/h,1035 mbar,56,148,10.5,56,8,800,Không lành mạnh
+Ít mây,-1°C,20%,8.4 km/h,1035 mbar,24,83,29,33,12,700,Trung bình
+Trời quang,28°C,29%,12 km/h,1011 mbar,2.1*,,,,,,Tốt
+Trời quang,-6°C,19%,9.1 km/h,1035 mbar,16.5,61,10,39.5,9,500,Trung bình
+Trời quang,15°C,36%,12.5 km/h,1016 mbar,35,,,,,,Trung bình
+Nhiều mây,23°C,70%,2.9 km/h,1013 mbar,40.5,70,,,7.2,,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,-2°C,22%,9.3 km/h,1035 mbar,40.5,102.5,7,53,6.5,600,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,0°C,23%,4.5 km/h,1035 mbar,34,127,31,33,8,700,Trung bình
+Ít mây,2°C,29%,9.8 km/h,1034 mbar,39,95,40,27,9,400,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,1°C,24%,8.3 km/h,1035 mbar,21.5,82,49,18.5,7,350,Trung bình
+Sương mù,17°C,100%,0 km/h,1013 mbar,136.6,273,17,,34.4,2420,Không lành mạnh
+Trời quang,18°C,99%,3.5 km/h,1014 mbar,29,,,,,,Trung bình
+Trời quang,5°C,41%,15.3 km/h,1031 mbar,32,99,60,30,8,400,Trung bình
+Trời quang,17°C,35%,5.6 km/h,1013 mbar,230.5,310.2,9,20,15.2,1715,Rất không lành mạnh
+Nhiều mây,1°C,78%,4.2 km/h,1013 mbar,68.9,69.9,15.2,38,12.1,,Không lành mạnh
+Trời quang,-4°C,12%,3.2 km/h,1034 mbar,6,47,38.5,28,8,300,Tốt
+Sương mù,29°C,61%,9.3 km/h,1010 mbar,72.6,180.8,19.2,62.7,20.8,1535,Không lành mạnh
+Trời quang,-10°C,19%,7.2 km/h,1035 mbar,14.5,41,56,17,4.5,350,Trung bình
+Trời quang,22°C,48%,4.2 km/h,1012 mbar,173.4*,,,,,,Rất không lành mạnh
+Nhiều mây,2°C,82%,0.6 km/h,1012 mbar,10.1*,,,,,,Tốt
+Trời quang,-7°C,18%,18.2 km/h,1034 mbar,12.5,44,46,30,9,500,Trung bình
+Sương mù,20°C,32%,18.5 km/h,1018 mbar,80,,,,,,Không lành mạnh
+Ít mây,-2°C,18%,7.9 km/h,1035 mbar,32,83.5,35,31.5,6.5,300,Trung bình
+Trời quang,1°C,26%,5.7 km/h,1034 mbar,57,161.5,10.5,60.5,7,750,Không lành mạnh
+Trời quang,-4°C,12%,4.6 km/h,1035 mbar,17,55,15,53.5,8,400,Trung bình
+Trời quang,5°C,38%,16 km/h,1032 mbar,36,,22,,3,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,3°C,32%,12.5 km/h,1033 mbar,51,144,46,30,12,600,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,20°C,34%,8.4 km/h,1013 mbar,128.3*,,,,,,Không lành mạnh
+Sương mù,19°C,63%,14.8 km/h,1018 mbar,16.8,57,,,12.8,,Trung bình
+Trời quang,-7°C,17%,11.2 km/h,1033 mbar,8,39,45,24,8.5,300,Tốt
+Sương mù,-17°C,85%,7.2 km/h,1029 mbar,169,207,3,80,4,1700,Rất không lành mạnh
+Trời quang,-9°C,26%,2.5 km/h,1033 mbar,11,115.5,32,16,6,300,Trung bình
+Ít mây,0°C,34%,2.6 km/h,1034 mbar,45,126,32.5,40,11.5,570.5,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,0°C,25%,10.2 km/h,1035 mbar,54.5,164.5,33,32.5,4,450,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,-13°C,92%,3.6 km/h,1029 mbar,3.4,3.6,,0.6,41.7,16.4,Tốt
+Trời quang,0°C,30%,3.2 km/h,1035 mbar,29.5,83.5,18,48,5.5,500,Trung bình
+Trời quang,-10°C,23%,1.9 km/h,1037 mbar,27,74,6,52,7,550,Trung bình
+Trời quang,15°C,34%,12.4 km/h,1016 mbar,31.2,72,,,3,,Trung bình
+Trời quang,-6°C,14%,10 km/h,1034 mbar,13,57,12,54,7,400,Trung bình
+Trời quang,0°C,38%,11.8 km/h,1035 mbar,37,134.5,44.5,24.5,6,350,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,-2°C,28%,6 km/h,1034 mbar,28,79,11,47.5,8,900,Trung bình
+Trời quang,0°C,52%,10.9 km/h,1035 mbar,46,161,34,27,6,600,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-4°C,27%,8.4 km/h,1035 mbar,3.5,42.5,60.5,16.5,6,600,Tốt
+Trời quang,19°C,46%,13 km/h,1015 mbar,55.3,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,7°C,91%,5.4 km/h,1029 mbar,53,100,30,25.5,5.5,350,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,22°C,100%,3.7 km/h,1014 mbar,70.4,,,,,,Không lành mạnh
+Nhiều mây,8°C,41%,4.2 km/h,1018 mbar,23.1*,,,,,,Trung bình
+Trời quang,-5°C,13%,5.5 km/h,1035 mbar,14,58,20,44.5,10.5,500,Trung bình
+Trời quang,-7°C,19%,4.4 km/h,1035 mbar,19,77,28,33,12,500,Trung bình
+Trời quang,-5°C,18%,4.4 km/h,1035 mbar,10,46,45,21,5,300,Tốt
+Trời quang,26°C,24%,16.5 km/h,1015 mbar,17.1*,,,,,,Trung bình
+Trời quang,-5°C,13%,6.6 km/h,1035 mbar,15,52.5,25,36,10,400,Trung bình
+Trời quang,-3°C,49%,3.6 km/h,1032 mbar,107,296.5,32.5,29,5,1050,Không lành mạnh
+Trời quang,15°C,32%,13.2 km/h,1017 mbar,68.6,119.1,7,37.6,17.6,,Không lành mạnh
+Trời quang,13°C,33%,10.9 km/h,1015 mbar,47,87.5,40.1,18.8,6.4,710,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,-3°C,74%,7.2 km/h,1026 mbar,65.1,80.8,,,,,Không lành mạnh
+Trời quang,0°C,24%,2.7 km/h,1035 mbar,36.5,135,32,33,8,550,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,8°C,91%,3.2 km/h,1030 mbar,44,82,44,21,6,500,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,4°C,60%,4.5 km/h,1027 mbar,21,91,50,20,6,0.4,Trung bình
+Trời quang,-5°C,19%,8.8 km/h,1035 mbar,18.5,59.5,37,29,12,400,Trung bình
+Trời quang,-6°C,23%,4.9 km/h,1035 mbar,21,76,15,42.5,13,500,Trung bình
+Trời quang,-7°C,21%,7.1 km/h,1033 mbar,44,124,2,54,10,800,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,6°C,42%,6.7 km/h,1029 mbar,62.5,125.5,28,72,7,600,Không lành mạnh
+Trời quang,-7°C,21%,9.2 km/h,1033 mbar,10,84,47,12,5,400,Trung bình
+Trời quang,21°C,53%,4.3 km/h,1013 mbar,82.7,164.2,13,,20,,Không lành mạnh
+Ít mây,0°C,35%,7.5 km/h,1034 mbar,53,158,30,37,7,500,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,20°C,43%,16.4 km/h,1015 mbar,38.7,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,16°C,35%,9 km/h,1016 mbar,32.8,69,,35.2,12,,Trung bình
+Nhiều mây,0°C,93%,3.7 km/h,1012 mbar,138.7,,,,,,Không lành mạnh
+Trời quang,-3°C,24%,6.6 km/h,1035 mbar,39,88,21,50,15,1100,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,0°C,69%,7.4 km/h,1026 mbar,87.9,116.4,4,,19.1,2249.4,Không lành mạnh
+Ít mây,-2°C,38%,2.7 km/h,1035 mbar,30,93,3,55,9,800,Trung bình
+Trời quang,-6°C,16%,7.4 km/h,1034 mbar,14,62,20,40.5,8,400,Trung bình
+Trời quang,-7°C,20%,8.3 km/h,1034 mbar,9,57,24,34,10,300,Trung bình
+Trời quang,-7°C,25%,9.2 km/h,1035 mbar,17,78.5,10,47.5,12,900,Trung bình
+Trời quang,18°C,39%,9 km/h,1015 mbar,66.9,,5,,9.6,,Không lành mạnh
+Trời quang,18°C,41%,6.4 km/h,1015 mbar,89.1,,,,11.2,,Không lành mạnh
+Trời quang,-5°C,24%,5.2 km/h,1035 mbar,32,84,13,55,18,500,Trung bình
+Trời quang,-6°C,21%,1.4 km/h,1035 mbar,23,105,14,49,13,600,Trung bình
+Trời quang,17°C,69%,6.8 km/h,1013 mbar,132.6,,,,,,Không lành mạnh
+Trời quang,6°C,48%,8.3 km/h,1029 mbar,71,148,25.5,58,6,783.5,Không lành mạnh
+Nhiều mây,0°C,67%,3.2 km/h,1013 mbar,125.7,,,,,,Không lành mạnh
+Ít mây,-2°C,22%,6.2 km/h,1035 mbar,21,84,24.5,35,5.5,350,Trung bình
+Trời quang,0°C,39%,12.5 km/h,1034 mbar,57,149,29,22,10,400,Không lành mạnh
+Nhiều mây,23°C,70%,11.4 km/h,1012 mbar,34.5,57.5,0,44,,,Trung bình
+Mưa,21°C,67%,13.9 km/h,1012 mbar,11.2,29.2,,,4.8,,Tốt
+Trời quang,-8°C,22%,5.3 km/h,1034 mbar,20,64.5,11.5,50,11,400,Trung bình
+Trời quang,-7°C,70%,11.2 km/h,1034 mbar,81.5,272,46.5,27,10,600,Không lành mạnh
+Mây rải rác,0°C,30%,5.1 km/h,1035 mbar,24,93.5,30,39.5,6.5,350,Trung bình
+Trời quang,-4°C,15%,4.7 km/h,1035 mbar,13.5,81,13,53.5,16,600,Trung bình
+Trời quang,-6°C,17%,8.6 km/h,1035 mbar,11.5,53,22.5,42,8,400,Tốt
+Nhiều mây,-14°C,96%,4.1 km/h,1037 mbar,170,197,6,56,3,1300,Rất không lành mạnh
+Trời quang,-12°C,25%,21.3 km/h,1030 mbar,10,28,62,6,16,500,Tốt
+Trời quang,1°C,48%,11.1 km/h,1022 mbar,12.1*,,,,,,Trung bình
+Trời quang,-6°C,21%,6.7 km/h,1035 mbar,12,73,27,25,12,500,Trung bình
+Nhiều mây,16°C,95%,20.3 km/h,1007 mbar,4.1*,,,,,,Tốt
+Nhiều mây,0°C,65%,4.1 km/h,1014 mbar,94,,,,,,Không lành mạnh
+Trời quang,-3°C,17%,5.7 km/h,1035 mbar,27,80,24,50,10,300,Trung bình
+Trời quang,1°C,23%,1.2 km/h,1034 mbar,58,147,13,63,12,770,Không lành mạnh
+Trời quang,-5°C,18%,8.3 km/h,1035 mbar,31,88,35,41,23,800,Trung bình
+Ít mây,14°C,60%,9.6 km/h,1017 mbar,57,,,,,,Không lành mạnh
+Mây rải rác,0°C,32%,5.9 km/h,1035 mbar,60,116,18,,11,,Không lành mạnh
+Ít mây,16°C,60%,6.2 km/h,1022 mbar,125.4,182,,5.5,2.5,,Không lành mạnh
+Nhiều mây,24°C,65%,12 km/h,1013 mbar,22.1*,,,,,,Trung bình
+Trời quang,6°C,34%,17.4 km/h,1032 mbar,68,95.5,13,20,3,6000,Không lành mạnh
+Ít mây,-6°C,90%,4.8 km/h,1013 mbar,,,3,,,,Tốt
+Nhiều mây,-7°C,92%,6.5 km/h,1010 mbar,23,27,17,,,,Trung bình
+Ít mây,-5°C,82%,11.1 km/h,1011 mbar,21,24.2,,,,,Trung bình
+Trời quang,-3°C,84%,7.4 km/h,1009 mbar,28,35,,,,,Trung bình
+Mây rải rác,10°C,54%,24.1 km/h,1015 mbar,8,18,,28.2,,,Tốt
+Mây rải rác,9°C,62%,23.1 km/h,1007 mbar,5,,,13.2,,,Tốt
+Mưa,7°C,85%,26.9 km/h,1014 mbar,5,4,,,0,,Tốt
+Nhiều mây,9°C,64%,4.8 km/h,1013 mbar,28,,,7.5,2.6,,Trung bình
+Nhiều mây,10°C,56%,4.8 km/h,1013 mbar,22.5,,,10.3,,,Trung bình
+Nhiều mây,9°C,63%,4.8 km/h,1013 mbar,22,,,7.5,2.6,,Trung bình
+Nhiều mây,7°C,66%,3.2 km/h,1007 mbar,26,,,7.5,13.1,,Trung bình
+Nhiều mây,8°C,65%,20.8 km/h,1016 mbar,29,,,14.1,,343.5,Trung bình
+Mây rải rác,11°C,66%,23.9 km/h,1014 mbar,21,,,,,,Trung bình
+Nhiều mây,9°C,60%,22.9 km/h,1016 mbar,20,26,,5.6,5.2,,Trung bình
+Mây rải rác,5°C,81%,21.3 km/h,1014 mbar,32,,,,,,Trung bình
+Trời quang,5°C,81%,0 km/h,1006 mbar,10,9,,30.1,,,Tốt
+Nhiều mây,4°C,67%,25.5 km/h,1015 mbar,9,20,,5.6,,,Tốt
+Trời quang,-1°C,79%,14.8 km/h,1006 mbar,16.5,28.8,14.6,35.8,,,Trung bình
+Nhiều mây,-4°C,91%,16.8 km/h,1009 mbar,9.6,10.3,,7.8,3.6,,Tốt
+Nhiều mây,14°C,94%,24.1 km/h,1001 mbar,15,15,26,37,2,,Trung bình
+Trời quang,-2°C,82%,6.4 km/h,1021 mbar,1.5,,,,,,Tốt
+Trời quang,9°C,60%,8.9 km/h,1018 mbar,7.3,,,,,,Tốt
+Trời quang,13°C,64%,14.8 km/h,1019 mbar,0.6,,,,,,Tốt
+Trời quang,7°C,87%,5.5 km/h,1020 mbar,15.4,,,,,,Trung bình
+Nhiều mây,4°C,84%,5.8 km/h,1030 mbar,20.9,,,,,,Trung bình
+Trời quang,7°C,60%,11.1 km/h,1024 mbar,6.1*,,,,,,Tốt
+Mây rải rác,2°C,81%,20.4 km/h,1023 mbar,,,,,1.1,,Tốt
+Ít mây,1°C,63%,3.2 km/h,1025 mbar,5.1*,,,,,,Tốt
+Nhiều mây,2°C,62%,3.2 km/h,1027 mbar,5.1*,,,,,,Tốt
+Trời quang,10°C,61%,14.8 km/h,1025 mbar,9.1*,,,,,,Tốt
+Nhiều mây,16°C,71%,16.7 km/h,1005 mbar,4.5,,,,,,Tốt
+Trời quang,-3°C,80%,4.6 km/h,1009 mbar,17,,,,,,Trung bình
+Mây rải rác,-12°C,75%,7.2 km/h,1019 mbar,52.1,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,-9°C,74%,8.6 km/h,1033 mbar,3.1,,,,,,Tốt
+Nhiều mây,-4°C,63%,7.4 km/h,1029 mbar,2,,,,,,Tốt
+Trời quang,-1°C,63%,3.2 km/h,1027 mbar,4.9,,44,21.6,,,Tốt
+Nhiều mây,-14°C,95%,11.6 km/h,1025 mbar,2,,,3.8,0,0,Tốt
+Trời quang,-1°C,26%,6.9 km/h,1013 mbar,7,11,67,14,2,700,Tốt
+Nhiều mây,0°C,90%,13.2 km/h,1005 mbar,30.7,,,,,,Trung bình
+Nhiều mây,12°C,82%,5.5 km/h,1005 mbar,6,8.2,33.4,10.3,3.4,,Tốt
+Trời quang,-2°C,74%,18.5 km/h,992 mbar,12.1*,,,,,,Trung bình
+Nhiều mây,-2°C,72%,13.5 km/h,1009 mbar,18,26.1,21.8,31.8,,,Trung bình
+Nhiều mây,-2°C,81%,11.1 km/h,1005 mbar,16,20,,,,0,Trung bình
+Nhiều mây,-5°C,79%,10.4 km/h,1011 mbar,7.1*,,,,,,Tốt
+Nhiều mây,-2°C,71%,9.6 km/h,1008 mbar,18.3,,,,,,Trung bình
+Mây rải rác,-2°C,93%,4.8 km/h,1016 mbar,17,20.1,,,1.4,,Trung bình
+Ít mây,-6°C,91%,6.6 km/h,1012 mbar,23.1*,,,25*,,1.3*,Trung bình
+Mây rải rác,-2°C,93%,8.2 km/h,1010 mbar,28.6,30.4,,21.6,,,Trung bình
+Ít mây,2°C,74%,14.8 km/h,1004 mbar,28.7,31.6,,18.1,,,Trung bình
+Nhiều mây,0°C,71%,9.3 km/h,1001 mbar,7.1*,,,,,,Tốt
+Trời quang,8°C,72%,9.5 km/h,1020 mbar,19,35,,7.5,2.6,,Trung bình
+Nhiều mây,8°C,62%,22.2 km/h,1016 mbar,19,35,,9.4,2.6,,Trung bình
+Nhiều mây,9°C,61%,23.3 km/h,1016 mbar,17,21,,5.6,2.6,,Trung bình
+Trời quang,3°C,64%,7.7 km/h,1007 mbar,5,5,,5.6,,,Tốt
+Nhiều mây,8°C,75%,15.7 km/h,1015 mbar,11,,,,,,Tốt
+Ít mây,8°C,81%,3.6 km/h,1006 mbar,13,15,,54.5,2.6,,Trung bình
+Nhiều mây,9°C,67%,24.3 km/h,1015 mbar,15,17,,,2.6,,Trung bình
+Nhiều mây,6°C,73%,45.2 km/h,1017 mbar,31,62,,3.8,,,Trung bình
+Mây rải rác,11°C,60%,32.9 km/h,1016 mbar,31,50.5,,3.8,0,,Trung bình
+Nhiều mây,1°C,74%,4 km/h,1013 mbar,7,,,,,,Tốt
+Trời quang,1°C,43%,3.8 km/h,1016 mbar,7.1*,,,97.4*,,,Tốt
+Nhiều mây,16°C,90%,26.5 km/h,1007 mbar,4.1*,,,,,,Tốt
+Trời quang,24°C,72%,16.7 km/h,1018 mbar,4,15,,25,2,,Tốt
+Nhiều mây,-9°C,80%,11.6 km/h,1005 mbar,30.7,,,,,,Trung bình
+Nhiều mây,9°C,86%,2.2 km/h,1010 mbar,11.1,26.9,1.1,,25.7,0,Tốt
+Nhiều mây,0°C,100%,5.5 km/h,1008 mbar,57,,,,,,Không lành mạnh
+Ít mây,9°C,69%,8.1 km/h,1012 mbar,14,23.8,,,,,Trung bình
+Trời quang,5°C,63%,3.2 km/h,1018 mbar,2.1,,,,,,Tốt
+Trời quang,12°C,66%,7.4 km/h,1019 mbar,10.5,,,,,,Tốt
+Trời quang,9°C,59%,8.6 km/h,1017 mbar,6.8,,,,,,Tốt
+Trời quang,7°C,86%,5.5 km/h,1021 mbar,7.8,,,,,,Tốt
+Trời quang,8°C,67%,1.6 km/h,1021 mbar,1.2,,,,,,Tốt
+Mây rải rác,0°C,86%,16.7 km/h,1009 mbar,4.5,,,,,,Tốt
+Nhiều mây,-9°C,63%,3.2 km/h,1006 mbar,0.5,,,,,,Tốt
+Nhiều mây,15°C,28%,11.3 km/h,1000 mbar,,,84,,,,Tốt
+Nhiều mây,-2°C,46%,19.3 km/h,1003 mbar,5,10,,,,,Tốt
+Nhiều mây,-4°C,66%,11.3 km/h,1000 mbar,6.8,,,,,,Tốt
+Nhiều mây,23°C,80%,16.7 km/h,1013 mbar,19.3,,,,,,Trung bình
+Trời quang,3°C,48%,12.9 km/h,1026 mbar,4.2,,,,,,Tốt
+Trời quang,2°C,53%,0 km/h,1020 mbar,4.4,,,,,,Tốt
+Nhiều mây,1°C,71%,13 km/h,1026 mbar,15.9,,,11.3,,,Trung bình
+Trời quang,3°C,48%,9.3 km/h,1023 mbar,4.1*,,,,,,Tốt
+Ít mây,0°C,69%,9.3 km/h,1027 mbar,8.4,,,,,,Tốt
+Trời quang,-4°C,71%,7.4 km/h,1026 mbar,4.2,,,,,,Tốt
+Trời quang,-3°C,72%,3.2 km/h,1026 mbar,2.8,,,,,,Tốt
+Mây rải rác,10°C,73%,6.2 km/h,1022 mbar,6,,,,,,Tốt
+Nhiều mây,2°C,79%,1.6 km/h,1022 mbar,12.1*,,,,,,Trung bình
+Trời quang,10°C,56%,9.3 km/h,1024 mbar,6,12,,,,,Tốt
+Nhiều mây,2°C,78%,14.8 km/h,1027 mbar,21.1,,,,,,Trung bình
+Trời quang,3°C,45%,11.1 km/h,1025 mbar,3.9,,,9.4,0,,Tốt
+Mưa,17°C,91%,17.6 km/h,1008 mbar,5.6,,38,,,,Tốt
+Nhiều mây,-1°C,86%,14.5 km/h,1009 mbar,9.8,,,,,,Tốt
+Trời quang,4°C,46%,6.4 km/h,1026 mbar,6.6,,4.2,,,,Tốt
+Nhiều mây,4°C,66%,9.6 km/h,1026 mbar,10.7,,,,,,Tốt
+Nhiều mây,0°C,81%,22.2 km/h,1024 mbar,14,,,,,,Trung bình
+Nhiều mây,-2°C,55%,11.1 km/h,1005 mbar,19.1*,,,,,,Trung bình
+Trời quang,-1°C,65%,16.4 km/h,1021 mbar,3.4,,,6.4,0,,Tốt
+Nhiều mây,0°C,93%,9.3 km/h,1001 mbar,6.1*,,,,,,Tốt
+Nhiều mây,0°C,55%,10.4 km/h,1003 mbar,16.1*,,,,,,Trung bình
+Trời quang,-1°C,81%,9.3 km/h,1001 mbar,7.1*,,,,,,Tốt
+Nhiều mây,0°C,69%,10.9 km/h,1004 mbar,7.1*,,,,,,Tốt
+Nhiều mây,7°C,94%,3.2 km/h,1005 mbar,6.1*,,,,,,Tốt
+Trời quang,-2°C,78%,1.8 km/h,1008 mbar,14,,,,,,Trung bình
+Mây rải rác,-6°C,79%,5.5 km/h,1008 mbar,6.1*,,,,,,Tốt
+Nhiều mây,-5°C,77%,8.4 km/h,1012 mbar,7.1*,,,,,,Tốt
+Nhiều mây,-4°C,67%,4.6 km/h,1011 mbar,18.1,23.1,3.1,35.3,,,Trung bình
+Trời quang,-4°C,77%,4.8 km/h,1010 mbar,23.5,30,,35.5,,,Trung bình
+Ít mây,-2°C,91%,9.4 km/h,1012 mbar,17.8,21.4,,9.4,1.2,,Trung bình
+Nhiều mây,-2°C,79%,13.6 km/h,1005 mbar,16.5,24,,42.5,,,Trung bình
+Nhiều mây,-3°C,91%,5.5 km/h,1011 mbar,17,19,,,,,Trung bình
+Nhiều mây,3°C,75%,29.6 km/h,1002 mbar,36.4,17.7,,20.1,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,10°C,93%,0.8 km/h,1006 mbar,3.1*,,,,,,Tốt
+Nhiều mây,4°C,69%,6.4 km/h,1007 mbar,11.4,,,,,,Tốt
+Nhiều mây,6°C,68%,4.9 km/h,1004 mbar,,,31.3,12.6,,,Tốt
+Mây rải rác,10°C,55%,1.6 km/h,1012 mbar,11*,,,,,,Tốt
+Mây rải rác,8°C,57%,26.6 km/h,1016 mbar,21.1*,,,,,,Trung bình
+Nhiều mây,6°C,69%,49.9 km/h,1012 mbar,7,14,,3.8,,,Tốt
+Mây rải rác,14°C,57%,37.8 km/h,1021 mbar,25,,,,,,Trung bình
+Mây rải rác,3°C,82%,4.6 km/h,1005 mbar,15,,,3.8,,,Trung bình
+Nhiều mây,9°C,63%,22.9 km/h,1015 mbar,12,11,,,2.6,,Tốt
+Ít mây,9°C,75%,22.6 km/h,1010 mbar,6,15,,9.4,2.6,,Tốt
+Trời quang,2°C,81%,0 km/h,1006 mbar,11,8,,24.4,,458,Tốt
+Nhiều mây,10°C,70%,41.9 km/h,1021 mbar,29,38,,9.4,2.6,,Trung bình
+Nhiều mây,-4°C,88%,16.7 km/h,1004 mbar,4.6,,,,4.2,,Tốt
+Trời quang,-2°C,68%,14.8 km/h,1004 mbar,24,29.5,17,41.8,1.3,,Trung bình
+Nhiều mây,-3°C,91%,3.2 km/h,1008 mbar,39.1,48,2.4,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,15°C,97%,7 km/h,1010 mbar,9.9,32.2,,,0.2,,Tốt
+Ít mây,17°C,88%,20.4 km/h,1005 mbar,2.1*,,,,,,Tốt
+Ít mây,15°C,77%,7.4 km/h,999 mbar,14,25,,49,3,,Trung bình
+Nhiều mây,15°C,84%,6.7 km/h,1000 mbar,5,9,40,,1,,Tốt
+Nhiều mây,1°C,82%,21.1 km/h,1005 mbar,11,14,,,,,Tốt
+Sương mù,8°C,86%,9.3 km/h,1021 mbar,11.4,,,,,,Tốt
+Trời quang,5°C,42%,20.4 km/h,1018 mbar,1.4,13,,,,,Tốt
+Trời quang,7°C,85%,6.4 km/h,1020 mbar,5.7,,,,,,Tốt
+Trời quang,0°C,60%,5.5 km/h,1024 mbar,4.1*,,,,,,Tốt
+Trời quang,16°C,42%,18.5 km/h,1003 mbar,0.5,,,,,,Tốt
+Sương mù,2°C,94%,5.5 km/h,1024 mbar,24.5,,,,,,Trung bình
+Trời quang,2°C,54%,13 km/h,1024 mbar,4.1*,,,,,,Tốt
+Sương mù,1°C,94%,5.5 km/h,1024 mbar,27.8,,,,,,Trung bình
+Nhiều mây,22°C,83%,13 km/h,1005 mbar,16.7,,,,,,Trung bình
+Tuyết,-5°C,84%,1.6 km/h,1022 mbar,1.3,,,,,,Tốt
+Nhiều mây,1°C,57%,29.3 km/h,1018 mbar,15.6,,,,,,Trung bình
+Nhiều mây,-6°C,71%,5.9 km/h,1012 mbar,27,38,1,58,3,,Trung bình
+Mây rải rác,-16°C,88%,8.1 km/h,1024 mbar,9.6,,,5.6,0,,Tốt
+Ít mây,1°C,46%,4.6 km/h,1012 mbar,33,37,20,40,8,1200,Trung bình
+Nhiều mây,6°C,93%,24.1 km/h,1003 mbar,6.1*,,,46*,,,Tốt
+Sương mù,1°C,100%,0 km/h,1001 mbar,24,29.9,3.3,50.9,,,Trung bình
+Nhiều mây,0°C,93%,7.4 km/h,1001 mbar,29.5,30.1,1.1,38.7,,,Trung bình
+Nhiều mây,-1°C,83%,4.2 km/h,1004 mbar,12.1*,,,41.1*,,,Trung bình
+Nhiều mây,1°C,93%,9.3 km/h,1001 mbar,7.1*,,,,,,Tốt
+Nhiều mây,-1°C,52%,18.4 km/h,1006 mbar,11.1*,,,,,,Tốt
+Trời quang,0°C,69%,13 km/h,1002 mbar,22.1*,,,,,,Trung bình
+Nhiều mây,4°C,94%,9.3 km/h,1000 mbar,4.1*,,,,,,Tốt
+Sương mù,5°C,100%,13 km/h,999 mbar,3.1*,,,,,,Tốt
+Trời quang,12°C,100%,7.4 km/h,998 mbar,2.1*,,,,,,Tốt
+Trời quang,0°C,79%,14.8 km/h,999 mbar,36.1,45.4,,33.8,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,0°C,67%,12.9 km/h,1001 mbar,25.8,34.9,33.8,13.3,,,Trung bình
+Nhiều mây,1°C,85%,13 km/h,999 mbar,35.4,46.9,17.5,22,0.2,,Trung bình
+Nhiều mây,-2°C,74%,16.5 km/h,1009 mbar,20,22,,,,,Trung bình
+Ít mây,-3°C,80%,8.5 km/h,1011 mbar,34,42,,,,,Trung bình
+Ít mây,-4°C,68%,8.6 km/h,1011 mbar,26,30,,,,,Trung bình
+Trời quang,-12°C,92%,6.9 km/h,1035 mbar,1.3,1,,,,,Tốt
+Mưa,4°C,93%,5.6 km/h,1004 mbar,0,1,,,,,Tốt
+Nhiều mây,8°C,99%,6.6 km/h,1007 mbar,1,3,,,,,Tốt
+Nhiều mây,8°C,94%,29.6 km/h,1002 mbar,2,5,,,,,Tốt
+Nhiều mây,8°C,78%,12.9 km/h,1001 mbar,0,1,,,,,Tốt
+Nhiều mây,7°C,74%,6.7 km/h,1006 mbar,0,1,,,,,Tốt
+Mưa,5°C,99%,3.7 km/h,1003 mbar,2.1*,,,,,,Tốt
+Mưa,15°C,70%,40.8 km/h,1004 mbar,20,4,,1,7,,Trung bình
+Nhiều mây,17°C,86%,30.1 km/h,1008 mbar,0,1,,0,,,Tốt
+Nhiều mây,7°C,98%,3.6 km/h,1004 mbar,0,0,,,,,Tốt
+Nhiều mây,9°C,86%,26.9 km/h,1007 mbar,1,3,,,,,Tốt
+Nhiều mây,9°C,77%,11.3 km/h,1005 mbar,1,6,,,,,Tốt
+Tuyết,-17°C,96%,9.5 km/h,1002 mbar,1.6,1.8,,,,,Tốt
+Nhiều mây,-15°C,94%,5 km/h,1002 mbar,1.1,1.1,,,,,Tốt
+Mưa,6°C,93%,3.7 km/h,1005 mbar,0,0,,,,,Tốt
+Nhiều mây,-11°C,83%,14.3 km/h,1013 mbar,11.3,,,15,15.4,137.4,Tốt
+Mưa,3°C,82%,40 km/h,1007 mbar,2.7,14,31.3,0.9,0.2,0,Tốt
+Nhiều mây,6°C,83%,22.5 km/h,1014 mbar,,,14,,,,Tốt
+Mây rải rác,-4°C,66%,7.6 km/h,1028 mbar,4.2,,,19.9,2.1,,Tốt
+Trời quang,27°C,71%,9 km/h,1014 mbar,3.1*,,,,,,Tốt
+Nhiều mây,17°C,83%,24.2 km/h,1001 mbar,4,8,25,21,3,0.3,Tốt
+Ít mây,19°C,68%,3.1 km/h,1016 mbar,0,,,,,,Tốt
+Ít mây,3°C,96%,1.3 km/h,1024 mbar,5.7,,,,,,Tốt
+Nhiều mây,4°C,94%,9.3 km/h,1024 mbar,8.1,,,,,,Tốt
+Nhiều mây,3°C,90%,1.6 km/h,1030 mbar,4.9,,,,,,Tốt
+Nhiều mây,0°C,99%,1.6 km/h,1024 mbar,3.9,,,,,,Tốt
+Nhiều mây,20°C,86%,0 km/h,1007 mbar,4.8,25.6,,,2.6,,Tốt
+Nhiều mây,7°C,84%,7.9 km/h,1005 mbar,1,4,,,,,Tốt
+Nhiều mây,7°C,97%,12.5 km/h,1008 mbar,1,3,,,,,Tốt
+Ít mây,30°C,62%,22.2 km/h,1009 mbar,5,,,,,,Tốt
+Ít mây,11°C,40%,72.2 km/h,995 mbar,8,,,,,,Tốt
+Trời quang,27°C,66%,11.3 km/h,1010 mbar,3.8,,,,,,Tốt
+Mây rải rác,9°C,60%,9.3 km/h,1017 mbar,0.8,,,,,,Tốt
+Mây rải rác,10°C,60%,7.4 km/h,1016 mbar,1.9,9,,,,,Tốt
+Trời quang,6°C,54%,2.7 km/h,1021 mbar,2.8,,,,,,Tốt
+Nhiều mây,20°C,95%,8.6 km/h,1007 mbar,4.6,,,,,,Tốt
+Nhiều mây,21°C,98%,2.5 km/h,1007 mbar,1.9,,,,,,Tốt
+Mưa,6°C,99%,6.3 km/h,1004 mbar,1.1*,,,,,,Tốt
+Nhiều mây,2°C,76%,3.6 km/h,1024 mbar,1.7,,,,,,Tốt
+Nhiều mây,21°C,85%,14.9 km/h,1012 mbar,3.1*,,,,,,Tốt
+Nhiều mây,26°C,94%,2.5 km/h,1009 mbar,15.6,21.2,10.4,2.3,3,,Trung bình
+Nhiều mây,16°C,95%,30 km/h,1001 mbar,4.1*,,,,,,Tốt
+Trời quang,-4°C,93%,4.2 km/h,1014 mbar,12.8,15.7,,51.7,,,Trung bình
+Mây rải rác,22°C,78%,20.4 km/h,1016 mbar,4.1*,,,,,,Tốt
+Nhiều mây,0°C,85%,21 km/h,1024 mbar,1.9,,,,,,Tốt
+Trời quang,4°C,93%,13 km/h,1024 mbar,3.5,,,,,,Tốt
+Trời quang,2°C,98%,1.6 km/h,1024 mbar,3.7,,,,,,Tốt
+Nhiều mây,4°C,91%,1.6 km/h,1024 mbar,7.3,,,,,,Tốt
+Sương mù,0°C,93%,5.5 km/h,1024 mbar,10,,,,,,Tốt
+Nhiều mây,2°C,98%,0 km/h,1024 mbar,9.2,,,,,,Tốt
+Sương mù,2°C,88%,0 km/h,1024 mbar,7.6,,,,,,Tốt
+Mưa,9°C,80%,18.5 km/h,1008 mbar,0,3.9,28,,,,Tốt
+Nhiều mây,2°C,97%,3.6 km/h,1024 mbar,12.7,,,,,,Trung bình
+Sương mù,3°C,97%,42.6 km/h,991 mbar,3.9,,,4.9,0.3,,Tốt
+Nhiều mây,-10°C,85%,5.5 km/h,994 mbar,4.3,,,12.1,,,Tốt
+Tuyết,-7°C,86%,9.3 km/h,992 mbar,6,8.3,,16.5,,,Tốt
+Mây rải rác,26°C,68%,13 km/h,1015 mbar,4.8,,,,,,Tốt
+Nhiều mây,9°C,61%,9.3 km/h,1016 mbar,2.7,12,,,,,Tốt
+Nhiều mây,-2°C,63%,24.1 km/h,1016 mbar,3.2,,,,,,Tốt
+Nhiều mây,24°C,82%,6.3 km/h,1006 mbar,4,8.7,,,,,Tốt
+Nhiều mây,24°C,83%,0 km/h,1006 mbar,3.4,9.6,,1.9,2.6,,Tốt
+Nhiều mây,20°C,89%,0 km/h,1008 mbar,10.3,,,,,,Tốt
+Nhiều mây,-17°C,86%,10.8 km/h,1010 mbar,2.2,4.9,,,1.3,,Tốt
+Tuyết,-1°C,86%,32.2 km/h,1006 mbar,3.2,,,3,0,,Tốt
+Trời quang,-7°C,92%,14.8 km/h,998 mbar,3.5,4.3,,,,,Tốt
+Tuyết,-7°C,89%,9.3 km/h,1010 mbar,1.1,,,,,,Tốt
+Trời quang,4°C,54%,8.1 km/h,1017 mbar,1.6,,,,,,Tốt
+Mây rải rác,23°C,76%,29.6 km/h,1018 mbar,2.1*,,,,,,Tốt
+Nhiều mây,2°C,91%,7.4 km/h,1025 mbar,6.6,,,,,,Tốt
+Trời quang,3°C,93%,4.8 km/h,1024 mbar,4,,,,,,Tốt
+Nhiều mây,4°C,87%,6.4 km/h,1026 mbar,7.8,,,,,,Tốt
+Sương mù,1°C,96%,0 km/h,1025 mbar,5,,,,,,Tốt
+Nhiều mây,8°C,97%,9.7 km/h,1006 mbar,1,3,,,,,Tốt
+Mưa,7°C,93%,3.7 km/h,1005 mbar,0,1,,,,,Tốt
+Nhiều mây,5°C,97%,5.7 km/h,1004 mbar,0,2,,,,,Tốt
+Nhiều mây,35°C,22%,14.9 km/h,1007 mbar,4.6,,,,,,Tốt
+Nhiều mây,-1°C,93%,13 km/h,1023 mbar,6,,,,,,Tốt
+Nhiều mây,-13°C,92%,16.7 km/h,1009 mbar,6.8,19.9,,9.6,,,Tốt
+Ít mây,-29°C,94%,15 km/h,1030 mbar,1.1*,,,,,,Tốt
+Ít mây,27°C,66%,4.8 km/h,1012 mbar,2.4,,,,,,Tốt
+Nhiều mây,19°C,78%,4.8 km/h,1003 mbar,5,10,46,3,,,Tốt
+Tuyết,-8°C,92%,5.5 km/h,1005 mbar,13,17,,20.2,,,Trung bình
+Trời quang,26°C,60%,8 km/h,1014 mbar,2.1*,,,,,,Tốt
+Mây rải rác,21°C,71%,16.8 km/h,1015 mbar,0.2,,,,,,Tốt
+Nhiều mây,1°C,89%,3.2 km/h,1024 mbar,4.1,,,,,,Tốt
+Nhiều mây,2°C,92%,0 km/h,1024 mbar,7.6,,,,,,Tốt
+Sương mù,1°C,96%,1.6 km/h,1025 mbar,10.9,,,,,,Tốt
+Nhiều mây,23°C,70%,0 km/h,1006 mbar,3.8,11.8,,13.2,,,Tốt
+Nhiều mây,23°C,83%,0 km/h,1006 mbar,1.3,6.3,,5.6,,,Tốt
+Nhiều mây,-3°C,80%,17.4 km/h,1007 mbar,9.9,12,,,1,,Tốt
+Nhiều mây,-4°C,78%,19.8 km/h,1007 mbar,3.1,6,,5,1,,Tốt
+Nhiều mây,-10°C,87%,7.4 km/h,991 mbar,3.9,7.1,,12.4,,,Tốt
+Nhiều mây,-3°C,56%,7.1 km/h,1007 mbar,14.1*,,,,,,Trung bình
+Trời quang,23°C,73%,13 km/h,1017 mbar,19,22.9,34.9,12.8,0.5,0.2,Trung bình
+Nhiều mây,17°C,89%,7.1 km/h,1005 mbar,2.1*,,,,,,Tốt
+Nhiều mây,16°C,89%,27.3 km/h,1008 mbar,30,15,,2,,,Trung bình
+Ít mây,18°C,82%,3.7 km/h,1003 mbar,3,13,7.5,32,3,0.2,Tốt
+Nhiều mây,-11°C,81%,16.2 km/h,1000 mbar,5,2.5,,3.4,,,Tốt
+Nhiều mây,-12°C,79%,13 km/h,1000 mbar,4.4,7,,36.5,,,Tốt
+Trời quang,-5°C,93%,3.8 km/h,1014 mbar,16.6,19.6,,50.3,,,Trung bình
+Trời quang,-4°C,93%,4 km/h,1012 mbar,15.1*,,,,,,Trung bình
+Trời quang,-6°C,91%,4.2 km/h,1011 mbar,10.1,13.2,,61.4,,,Tốt
+Sương mù,-5°C,98%,1.8 km/h,1010 mbar,19.1*,,,,,,Trung bình
+Tuyết,-3°C,96%,2.8 km/h,1015 mbar,0.7,,,,,,Tốt
+Mưa,20°C,87%,35.2 km/h,1012 mbar,3,29,,,2,,Tốt
+Ít mây,-9°C,82%,20.4 km/h,1002 mbar,4,5.3,,27.8,,,Tốt
+Ít mây,-9°C,80%,18.5 km/h,1002 mbar,4,5.6,,,,,Tốt
+Trời quang,-12°C,72%,16.7 km/h,998 mbar,2.6,,,,,,Tốt
+Ít mây,-2°C,84%,7.4 km/h,1009 mbar,13.5,22.1,,152.6,,,Trung bình
+Mây rải rác,-3°C,90%,3.7 km/h,1009 mbar,13,18.8,,67.1,,,Trung bình
+Ít mây,-4°C,84%,3.7 km/h,1010 mbar,12,18.8,,41.5,5.8,,Tốt
+Trời quang,-5°C,92%,3.7 km/h,1011 mbar,13.9,17.1,,36.7,,,Trung bình
+Trời quang,26°C,58%,6.8 km/h,1017 mbar,8.1*,,,,,,Tốt
+Trời quang,22°C,68%,11.3 km/h,1015 mbar,1.6,,,,,,Tốt
+Nhiều mây,2°C,89%,3.2 km/h,1024 mbar,4.6,,,,,,Tốt
+Mây rải rác,3°C,95%,1.6 km/h,1023 mbar,4.8,,,,,,Tốt
+Sương mù,1°C,92%,0 km/h,1024 mbar,13.4,,,,,,Trung bình
+Sương mù,2°C,90%,3.2 km/h,1023 mbar,18,,,,,,Trung bình
+Trời quang,10°C,74%,11.1 km/h,1018 mbar,0.7,,,,,,Tốt
+Trời quang,26°C,64%,11.4 km/h,1014 mbar,2.1*,,,,,,Tốt
+Nhiều mây,-7°C,80%,10.4 km/h,1014 mbar,6.1*,,,,,,Tốt
+Mây rải rác,3°C,80%,3.5 km/h,1024 mbar,1.9,,,,,,Tốt
+Trời quang,-3°C,69%,3.2 km/h,1020 mbar,4.2,,70,,0,,Tốt
+Nhiều mây,1°C,95%,13 km/h,1022 mbar,7.7,9.9,3.5,26.6,1.4,,Tốt
+Mây rải rác,0°C,94%,2.4 km/h,1023 mbar,2.7,,,,1.8,,Tốt
+Tuyết,0°C,98%,43.5 km/h,995 mbar,1.7,,,,1.6,,Tốt
+Trời quang,0°C,60%,10.3 km/h,1030 mbar,0,,,3,,,Tốt
+Trời quang,28°C,21%,17.5 km/h,1013 mbar,10,14,,,,,Tốt
+Tuyết,-2°C,91%,27.3 km/h,993 mbar,2.4,3.5,,3.5,1,,Tốt
+Nhiều mây,-2°C,94%,16.3 km/h,995 mbar,3.6,5.4,,4.5,1,,Tốt
+Tuyết,-3°C,96%,17.1 km/h,993 mbar,4.9,4,,,0.7,,Tốt
+Nhiều mây,0°C,99%,10.2 km/h,1003 mbar,0.7,1.3,,,,,Tốt
+Nhiều mây,16°C,90%,19.7 km/h,1006 mbar,2.1*,,,,,,Tốt
+Trời quang,27°C,69%,9.6 km/h,1015 mbar,4.3,,,,,,Tốt
+Mưa,16°C,77%,19.8 km/h,1000 mbar,10,30,17,29,8,0.1,Tốt
+Ít mây,-2°C,88%,8.1 km/h,1005 mbar,7.8,11.1,,,,,Tốt
+Mây rải rác,-3°C,93%,3.7 km/h,1009 mbar,12.8,16.7,,,,,Trung bình
+Nhiều mây,-17°C,80%,7.4 km/h,1008 mbar,1.5,11,,,,,Tốt
+Nhiều mây,2°C,88%,1.6 km/h,1015 mbar,4.5,,,,,,Tốt
+Nhiều mây,2°C,92%,1.9 km/h,1024 mbar,3.8,,,,,,Tốt
+Nhiều mây,3°C,87%,7.4 km/h,1024 mbar,12.1,,,,,,Tốt
+Nhiều mây,-4°C,94%,7.5 km/h,1025 mbar,4.3,,,,,,Tốt
+Tuyết,-11°C,81%,20.4 km/h,1008 mbar,11.9,,,,,,Tốt
+Trời quang,31°C,19%,7.4 km/h,1011 mbar,3.1*,,,,,,Tốt
+Trời quang,13°C,44%,2.6 km/h,1009 mbar,0,3,0.2,0.1,0,,Tốt
+Nhiều mây,10°C,82%,6.3 km/h,1007 mbar,1,15,,,,,Tốt
+Trời quang,14°C,69%,11.1 km/h,1007 mbar,0.8,,,,,,Tốt
+Mây rải rác,4°C,91%,9.9 km/h,1011 mbar,2,,,,,,Tốt
+Nhiều mây,-9°C,66%,6.1 km/h,1013 mbar,4,5,,4,,,Tốt
+Nhiều mây,3°C,93%,5.6 km/h,1024 mbar,3.2,,,,,,Tốt
+Nhiều mây,-4°C,89%,19.5 km/h,997 mbar,3,9,,5,0.7,,Tốt
+Mây rải rác,-9°C,43%,11.1 km/h,994 mbar,3.1,5.4,,18.9,,,Tốt
+Ít mây,-10°C,89%,14.8 km/h,992 mbar,4.2,5.3,,13.8,0.2,,Tốt
+Mưa,23°C,73%,13 km/h,1017 mbar,8.3,18.1,,20.4,,,Tốt
+Nhiều mây,-1°C,35%,5.2 km/h,1001 mbar,4,,,,,,Tốt
+Trời quang,21°C,67%,24 km/h,1016 mbar,2,,,0,0,,Tốt
+Nhiều mây,26°C,83%,14.5 km/h,1011 mbar,4,,,,,,Tốt
+Nhiều mây,14°C,75%,13.9 km/h,998 mbar,3,6,,5,,0.4,Tốt
+Ít mây,-4°C,93%,5.5 km/h,1009 mbar,14.3,18.7,,,,,Trung bình
+Nhiều mây,-19°C,81%,7.4 km/h,1006 mbar,1.6,,,,,,Tốt
+Nhiều mây,9°C,71%,3.2 km/h,1016 mbar,1.7,,,,,,Tốt
+Trời quang,-5°C,82%,0 km/h,1008 mbar,1.2,,,,,,Tốt
+Sương mù,1°C,91%,0 km/h,1024 mbar,20.5,,,,,,Trung bình
+Nhiều mây,3°C,97%,0 km/h,1024 mbar,3.2,,,,,,Tốt
+Nhiều mây,20°C,88%,0 km/h,1008 mbar,4.4,29.6,,20.7,,,Tốt
+Ít mây,25°C,61%,5.5 km/h,1017 mbar,2.1*,,,,,,Tốt
+Nhiều mây,-3°C,50%,21.6 km/h,1015 mbar,3,,,1.3,,,Tốt
+Nhiều mây,-17°C,97%,3.4 km/h,1014 mbar,8.4,,,,3.4,,Tốt
+Mây rải rác,-1°C,75%,22.5 km/h,1009 mbar,1.1*,,,,,,Tốt
+Tuyết,-4°C,86%,14.8 km/h,993 mbar,1.1*,,,9.5*,,,Tốt
+Mưa,24°C,86%,12.1 km/h,1012 mbar,1.2,,,,,,Tốt
+Nhiều mây,2°C,60%,41.2 km/h,998 mbar,6,18,,7.5,2.6,,Tốt
+Mưa,10°C,93%,13 km/h,1000 mbar,1,4,,9,2,,Tốt
+Sương mù,-5°C,97%,1.8 km/h,1010 mbar,14.5,16.1,,23.8,,,Trung bình
+Sương mù,-5°C,95%,1.8 km/h,1012 mbar,15.6,19.5,,67.9,,,Trung bình
+Mây rải rác,-3°C,94%,3.7 km/h,1009 mbar,28.2,34.9,,44.4,,,Trung bình
+Sương mù,-5°C,97%,1.8 km/h,1010 mbar,12.3,14.7,,60.9,,,Trung bình
+Mây rải rác,-1°C,86%,6.8 km/h,1010 mbar,15.2,18.5,,55.9,,,Trung bình
+Nhiều mây,1°C,85%,6.4 km/h,1024 mbar,18.6,,,,,,Trung bình
+Nhiều mây,2°C,93%,2.9 km/h,1023 mbar,9.6,,,,,,Tốt
+Trời quang,2°C,91%,0 km/h,1023 mbar,3,,,,,,Tốt
+Sương mù,2°C,88%,0 km/h,1026 mbar,12.5,,,,,,Trung bình
+Nhiều mây,1°C,91%,2.7 km/h,1024 mbar,7,,,,,,Tốt
+Mưa,14°C,72%,3.7 km/h,1007 mbar,1.9,,,,,,Tốt
+Nhiều mây,20°C,90%,4.8 km/h,1007 mbar,5.8,21,,15,,,Tốt
+Nhiều mây,20°C,90%,4.8 km/h,1007 mbar,5.8,21,,15,,,Tốt
+Nhiều mây,19°C,90%,4.8 km/h,1003 mbar,6.4,18.1,,7.5,,,Tốt
+Nhiều mây,-4°C,55%,22.4 km/h,1007 mbar,5.6,8,,,,,Tốt
+Trời quang,9°C,45%,22.2 km/h,1016 mbar,1,,,,,,Tốt
+Trời quang,2°C,43%,11.1 km/h,1008 mbar,3.8,,,,,,Tốt
+Nhiều mây,2°C,97%,1.6 km/h,1023 mbar,16.8,,,,,,Trung bình
+Nhiều mây,1°C,98%,0.9 km/h,1023 mbar,5.1,,,,,,Tốt
+Nhiều mây,21°C,95%,1.6 km/h,1004 mbar,8.1,20.6,30,3.8,,,Tốt
+Nhiều mây,2°C,97%,4.2 km/h,1023 mbar,6.2,,,,,,Tốt
+Nhiều mây,1°C,89%,9.4 km/h,1023 mbar,2,,,,,,Tốt
+Nhiều mây,-2°C,46%,4.8 km/h,1010 mbar,4.9,,,4.7,,,Tốt
+Nhiều mây,0°C,73%,46.7 km/h,1005 mbar,2.3,,,,,,Tốt
+Ít mây,-2°C,70%,8.3 km/h,1031 mbar,2,,58,5.3,,,Tốt
+Nhiều mây,-1°C,35%,6.4 km/h,1001 mbar,10,,,16.9,,,Tốt
+Nhiều mây,23°C,94%,3.7 km/h,1010 mbar,5.8,,,,,,Tốt
+Ít mây,-3°C,87%,4.4 km/h,1010 mbar,9.6,11.6,,33.1,,,Tốt
+Ít mây,-4°C,93%,5.5 km/h,1009 mbar,12.8,15.6,,60.7,,,Trung bình
+Nhiều mây,0°C,46%,20.4 km/h,1003 mbar,6.1*,,,,,,Tốt
+Ít mây,0°C,63%,5.4 km/h,1021 mbar,1.2,,,,,,Tốt
+Nhiều mây,1°C,59%,4.5 km/h,1025 mbar,,,51.7,,,,Tốt
+Ít mây,8°C,46%,14.8 km/h,1020 mbar,11,11,50,0,0,0,Tốt
+Trời quang,1°C,53%,20.4 km/h,1020 mbar,1.5,,,,,,Tốt
+Tuyết,-1°C,68%,16.7 km/h,1004 mbar,0.6,,,,,,Tốt
+Mây rải rác,2°C,90%,3.2 km/h,1023 mbar,11,,,,,,Tốt
+Trời quang,14°C,58%,11 km/h,1007 mbar,1.4,,,,,,Tốt
+Trời quang,13°C,61%,7.4 km/h,1008 mbar,1.8,,,,,,Tốt
+Mây rải rác,25°C,85%,12.4 km/h,1006 mbar,9.1,23.2,,,,,Tốt
+Mưa,8°C,91%,23.3 km/h,1014 mbar,1.4,,,,,,Tốt
+Mưa,10°C,86%,29.6 km/h,1009 mbar,0.5,,,,,,Tốt
+Mây rải rác,30°C,51%,13 km/h,1009 mbar,2,,,,,,Tốt
+Nhiều mây,-2°C,77%,5.5 km/h,1014 mbar,,,14,,,,Tốt
+Nhiều mây,3°C,84%,5 km/h,1022 mbar,5.2,,,,,,Tốt
+Nhiều mây,4°C,85%,8.1 km/h,1024 mbar,10.7,,,,0.5,27.5,Tốt
+Nhiều mây,-6°C,93%,18 km/h,995 mbar,5.1*,,,,,,Tốt
+Trời quang,-25°C,86%,17.5 km/h,1033 mbar,1.1*,,,,,,Tốt
+Trời quang,-8°C,85%,5.5 km/h,1002 mbar,20.1,,,,,,Trung bình
+Nhiều mây,10°C,93%,10.5 km/h,1001 mbar,3,,,,,,Tốt
+Nhiều mây,11°C,97%,4.4 km/h,1001 mbar,4.3,7.8,,,,,Tốt
+Nhiều mây,17°C,78%,24.5 km/h,1001 mbar,1,2,23,10,5,0.1,Tốt
+Nhiều mây,-3°C,82%,11.1 km/h,1007 mbar,3.2,6.1,,,,,Tốt
+Nhiều mây,-1°C,86%,20.4 km/h,1008 mbar,11.1,32.7,,74,,,Tốt
+Sương mù,-5°C,96%,1.8 km/h,1010 mbar,45.3,31.6,,42.4,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-3°C,85%,6.9 km/h,1022 mbar,17.4,22.7,,,,,Trung bình
+Ít mây,-4°C,85%,5 km/h,1010 mbar,29.3,,,,,,Trung bình
+Trời quang,4°C,81%,4.8 km/h,1019 mbar,7,9,,,,,Tốt
+Nhiều mây,2°C,91%,6.4 km/h,1024 mbar,19.9,,1.2,,1.8,0.4,Trung bình
+Sương mù,1°C,92%,3.2 km/h,1024 mbar,12.6,,,,,,Trung bình
+Nhiều mây,20°C,88%,0 km/h,1007 mbar,6.1*,,,,,,Tốt
+Nhiều mây,6°C,15%,4.3 km/h,1004 mbar,1,6,,,,,Tốt
+Nhiều mây,9°C,93%,25.9 km/h,1004 mbar,0.2,,,,,,Tốt
+Mưa,10°C,85%,32.4 km/h,1011 mbar,0.5,,,,,,Tốt
+Nhiều mây,-2°C,53%,14.5 km/h,1014 mbar,0.5,,,,,,Tốt
+Nhiều mây,3°C,92%,12.9 km/h,1010 mbar,7.4,16.6,,2.8,0.1,0.1,Tốt
+Mây rải rác,-1°C,47%,6.6 km/h,1029 mbar,11.1*,,,,,,Tốt
+Ít mây,0°C,76%,12 km/h,1027 mbar,4,,,,,,Tốt
+Nhiều mây,-5°C,88%,13 km/h,993 mbar,8,14.1,24,16.4,0.7,380,Tốt
+Ít mây,-9°C,89%,14.8 km/h,992 mbar,6.8,8.9,,26.9,,,Tốt
+Ít mây,-6°C,83%,7.3 km/h,1013 mbar,5,6,,10,,,Tốt
+Nhiều mây,4°C,76%,25.6 km/h,1006 mbar,45.9,48.5,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,2°C,96%,5.1 km/h,1008 mbar,0,,,,,,Tốt
+Ít mây,24°C,47%,11.1 km/h,1015 mbar,0.4,,,,,,Tốt
+Ít mây,15°C,61%,3.2 km/h,1015 mbar,0.1,,,,,,Tốt
+Nhiều mây,17°C,70%,3.2 km/h,1011 mbar,2.9,,,,,,Tốt
+Trời quang,-6°C,92%,14.8 km/h,1000 mbar,16.9,19.3,,42,,,Trung bình
+Nhiều mây,-19°C,91%,6.6 km/h,1006 mbar,11.7,25.4,,53.3,,,Tốt
+Nhiều mây,-4°C,86%,5 km/h,1013 mbar,11,21,59,17,,,Tốt
+Nhiều mây,7°C,77%,1.6 km/h,1016 mbar,6.2,17.5,42,,,,Tốt
+Trời quang,0°C,48%,14.5 km/h,1020 mbar,0.5,1,,,0.5,,Tốt
+Nhiều mây,2°C,91%,1.6 km/h,1024 mbar,11.8,,,,,,Tốt
+Nhiều mây,0°C,88%,4.7 km/h,1024 mbar,6.4,,,,,,Tốt
+Nhiều mây,3°C,96%,0 km/h,1024 mbar,7.6,,,,,,Tốt
+Nhiều mây,2°C,90%,0 km/h,1023 mbar,7.9,,,,,,Tốt
+Nhiều mây,-1°C,86%,25.9 km/h,1021 mbar,7,,,,,,Tốt
+Nhiều mây,27°C,78%,9.3 km/h,1006 mbar,4.2,9.3,,,,,Tốt
+Nhiều mây,-7°C,85%,5.6 km/h,1018 mbar,4,3.5,,11.1,1.2,,Tốt
+Nhiều mây,2°C,95%,13 km/h,1024 mbar,8.6,,2.7,32.7,1.7,,Tốt
+Nhiều mây,-3°C,46%,14.5 km/h,1016 mbar,2.5,,,,,,Tốt
+Nhiều mây,0°C,100%,3.1 km/h,1006 mbar,5.3,,,,,,Tốt
+Ít mây,10°C,64%,17.7 km/h,1016 mbar,23,43,,5.6,0,,Trung bình
+Trời quang,-6°C,91%,14.8 km/h,1000 mbar,9.6,11.3,,,,,Tốt
+Nhiều mây,16°C,100%,9.6 km/h,999 mbar,2.1*,,,,,,Tốt
+Trời quang,-5°C,93%,4.4 km/h,1014 mbar,20.8,28.8,,71.7,,,Trung bình
+Trời quang,8°C,75%,7.4 km/h,1019 mbar,0.1,,,,,,Tốt
+Trời quang,-5°C,72%,6.9 km/h,1014 mbar,22.6,,,,,,Trung bình
+Nhiều mây,-1°C,83%,1.6 km/h,1005 mbar,31,45,,,,,Trung bình
+Nhiều mây,-22°C,83%,10.3 km/h,1017 mbar,21,21,49,4,4,,Trung bình
+Trời quang,0°C,80%,11.1 km/h,1013 mbar,19.3,36.7,30.6,50.4,5.5,,Trung bình
+Mưa,15°C,91%,8.7 km/h,1017 mbar,10.5,,,,,,Tốt
+Mây rải rác,-12°C,60%,24.7 km/h,1024 mbar,11,46,,,5.2,,Tốt
+Nhiều mây,10°C,95%,1.5 km/h,1002 mbar,22.4,,,,,,Trung bình
+Nhiều mây,23°C,91%,6.4 km/h,1010 mbar,18.1*,,,,,,Trung bình
+Trời quang,4°C,71%,0 km/h,1018 mbar,4.6,,,,,,Tốt
+Nhiều mây,-1°C,95%,5.5 km/h,1004 mbar,28.9,,,,,,Trung bình
+Nhiều mây,0°C,79%,6.4 km/h,1026 mbar,18.8,,,,,,Trung bình
+Trời quang,2°C,61%,7.4 km/h,1025 mbar,8.1,,,,,,Tốt
+Nhiều mây,-5°C,92%,2.6 km/h,1010 mbar,10.5,,,,,,Tốt
+Nhiều mây,-2°C,92%,4 km/h,1026 mbar,5.1,,,,,,Tốt
+Nhiều mây,-1°C,79%,9.3 km/h,1007 mbar,18.8,26,,,,,Trung bình
+Trời quang,12°C,79%,3.3 km/h,1020 mbar,40,54.5,79,16.5,5,650,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,0°C,77%,13 km/h,1005 mbar,21.1*,,,,,,Trung bình
+Trời quang,-2°C,73%,4.5 km/h,1015 mbar,16.5,16.5,24,,3.3,,Trung bình
+Trời quang,-2°C,70%,6.3 km/h,1015 mbar,10.9,23.9,11.1,,2.6,,Tốt
+Nhiều mây,1°C,75%,3.5 km/h,1015 mbar,14,,,,,,Trung bình
+Ít mây,23°C,33%,7.2 km/h,1012 mbar,28,,,,,,Trung bình
+Mây rải rác,-5°C,87%,5.4 km/h,1012 mbar,12.2,18.7,,,,,Trung bình
+Ít mây,-1°C,86%,3.9 km/h,1004 mbar,7.1*,,11.4*,37.7*,7.2*,,Tốt
+Tuyết,-5°C,93%,16.1 km/h,1026 mbar,2.1*,,,,,,Tốt
+Tuyết,0°C,77%,22.9 km/h,1025 mbar,2.1*,,,,,,Tốt
+Trời quang,11°C,62%,8.1 km/h,1019 mbar,13.4,,,,,,Trung bình
+Trời quang,6°C,84%,5.5 km/h,1020 mbar,27.5,,,,,,Trung bình
+Trời quang,3°C,53%,7.4 km/h,1025 mbar,8.1,,,,,,Tốt
+Tuyết,0°C,89%,12.9 km/h,1012 mbar,0.2,,,,,,Tốt
+Nhiều mây,-3°C,73%,7.8 km/h,1016 mbar,0.2,,,,,,Tốt
+Trời quang,21°C,61%,18 km/h,1013 mbar,7,31,26,12.5,0.9,,Tốt
+Trời quang,-11°C,100%,1.8 km/h,1013 mbar,11,15.5,,,,,Tốt
+Nhiều mây,-2°C,88%,11.1 km/h,1007 mbar,61.2,,,,,,Không lành mạnh
+Nhiều mây,13°C,93%,12.9 km/h,1003 mbar,5.1*,,,,,,Tốt
+Trời quang,5°C,68%,7.3 km/h,1007 mbar,4,2,,22.6,,343.5,Tốt
+Trời quang,0°C,52%,3.1 km/h,1016 mbar,10,14.5,,,,,Tốt
+Nhiều mây,26°C,88%,11.1 km/h,1010 mbar,6,13,0,28,3,0,Tốt
+Trời quang,-2°C,81%,7.4 km/h,1012 mbar,47,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-10°C,62%,13.8 km/h,1025 mbar,13,37,56,,,,Trung bình
+Nhiều mây,16°C,97%,9.6 km/h,1010 mbar,9.6,,56,4,8,0.4,Tốt
+Trời quang,2°C,68%,1.6 km/h,1016 mbar,2.6,,,,,,Tốt
+Ít mây,10°C,67%,0 km/h,1017 mbar,25.6,,,,,,Trung bình
+Ít mây,4°C,88%,8.6 km/h,1020 mbar,1.8,,,,,,Tốt
+Trời quang,6°C,79%,4.8 km/h,1021 mbar,4.5,,,,,,Tốt
+Nhiều mây,10°C,84%,13 km/h,1017 mbar,2.7,,,,,,Tốt
+Trời quang,6°C,84%,7.4 km/h,1021 mbar,13.1*,,,,,,Trung bình
+Nhiều mây,9°C,76%,6.4 km/h,1022 mbar,18,,,,,,Trung bình
+Nhiều mây,9°C,77%,24.2 km/h,1022 mbar,21.1,,,,,,Trung bình
+Sương mù,1°C,89%,37 km/h,1014 mbar,12.1*,,,,,,Trung bình
+Trời quang,1°C,56%,16.7 km/h,1018 mbar,2.8,,,,,,Tốt
+Nhiều mây,2°C,74%,18.5 km/h,1025 mbar,6.6,,,,,,Tốt
+Trời quang,3°C,45%,11.1 km/h,1025 mbar,0.9,,,,,,Tốt
+Nhiều mây,3°C,53%,7 km/h,1024 mbar,6.1*,,,,,,Tốt
+Nhiều mây,20°C,92%,14 km/h,1008 mbar,,16,48,12,7,,Tốt
+Nhiều mây,16°C,73%,2.6 km/h,1012 mbar,3.2,,,,,,Tốt
+Trời quang,0°C,71%,11.1 km/h,1003 mbar,21.7,33,17.5,45.8,,,Trung bình
+Nhiều mây,8°C,86%,14.8 km/h,1004 mbar,11.2,,,,,,Tốt
+Nhiều mây,6°C,69%,4.8 km/h,1012 mbar,5.1*,,,,,,Tốt
+Mây rải rác,24°C,91%,10.1 km/h,1011 mbar,6.1*,,,,,,Tốt
+Nhiều mây,-4°C,92%,17.7 km/h,1008 mbar,9.7,,,,,,Tốt
+Nhiều mây,-12°C,64%,15 km/h,1026 mbar,17,49,,,5.2,,Trung bình
+Nhiều mây,17°C,82%,68.7 km/h,1019 mbar,13,29,,3.8,2.4,,Trung bình
+Nhiều mây,25°C,84%,18.3 km/h,1010 mbar,18.1*,,,,,,Trung bình
+Trời quang,4°C,84%,0 km/h,1021 mbar,5.4,,,,,,Tốt
+Trời quang,8°C,75%,3.2 km/h,1016 mbar,6.5,,,,,,Tốt
+Nhiều mây,17°C,70%,16.7 km/h,1004 mbar,5.1*,,,,,,Tốt
+Trời quang,27°C,48%,1.6 km/h,1008 mbar,4.1*,,,,,,Tốt
+Nhiều mây,10°C,85%,5.9 km/h,1009 mbar,45,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-24°C,77%,14.4 km/h,1035 mbar,18,20.6,,22.6,6.9,69,Trung bình
+Nhiều mây,26°C,88%,10.6 km/h,1009 mbar,9.4,,,,,,Tốt
+Mưa,4°C,58%,40.7 km/h,1027 mbar,11,30.5,76,6.6,2.6,343.5,Tốt
+Tuyết,-1°C,91%,22.5 km/h,1026 mbar,2.1*,,,,,,Tốt
+Tuyết,0°C,82%,23.8 km/h,1026 mbar,4.1*,,,,,,Tốt
+Tuyết,0°C,65%,46.4 km/h,1027 mbar,4.1*,,,,,,Tốt
+Tuyết,-6°C,80%,5.3 km/h,1007 mbar,19.8,,,,,,Trung bình
+Nhiều mây,2°C,60%,14.8 km/h,1016 mbar,8.7,21,30,19.7,,,Tốt
+Trời quang,7°C,57%,9.3 km/h,1021 mbar,2.8,,,,,,Tốt
+Trời quang,6°C,79%,13 km/h,1021 mbar,11.2,,,,,,Tốt
+Mây rải rác,12°C,66%,5.5 km/h,1017 mbar,9.3,,,,,,Tốt
+Nhiều mây,2°C,78%,22.2 km/h,1023 mbar,14.1*,,,,,,Trung bình
+Nhiều mây,3°C,70%,14.8 km/h,1025 mbar,22.8,,,,,,Trung bình
+Trời quang,2°C,60%,9.3 km/h,1027 mbar,7.1*,,,,,,Tốt
+Trời quang,28°C,63%,25.9 km/h,1004 mbar,27.4,,,,,,Trung bình
+Mây rải rác,-5°C,83%,0 km/h,1019 mbar,4.2,,,,,,Tốt
+Trời quang,-7°C,83%,5.5 km/h,1020 mbar,0.7,,,,,,Tốt
+Nhiều mây,-4°C,77%,4.9 km/h,1009 mbar,46.9,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,24°C,88%,3.7 km/h,1009 mbar,7.5,7.8,,,,,Tốt
+Mây rải rác,10°C,88%,3.7 km/h,1006 mbar,13.6,20.5,37.6,37.4,,0.6,Trung bình
+Trời quang,5°C,89%,6.2 km/h,1007 mbar,8,,,,,,Tốt
+Nhiều mây,1°C,75%,4.1 km/h,1014 mbar,28.5,,,,,,Trung bình
+Nhiều mây,26°C,93%,5.4 km/h,1009 mbar,18.6,,,,,,Trung bình
+Nhiều mây,-33°C,91%,7.3 km/h,1029 mbar,1.1*,,,,,,Tốt
+Ít mây,0°C,65%,22 km/h,1024 mbar,8,,,3.8,5.2,,Tốt
+Mây rải rác,0°C,72%,32.4 km/h,1025 mbar,4.1*,,,,,,Tốt
+Nhiều mây,14°C,67%,12.6 km/h,1026 mbar,9.3,,,,,,Tốt
+Nhiều mây,15°C,86%,29.3 km/h,1024 mbar,16,24,,3.8,2.6,,Trung bình
+Nhiều mây,18°C,93%,20.7 km/h,1009 mbar,7.1*,,,,,,Tốt
+Nhiều mây,10°C,80%,13 km/h,1018 mbar,0.8,,,,,,Tốt
+Trời quang,12°C,68%,5.5 km/h,1018 mbar,27.1,,,,,,Trung bình
+Trời quang,6°C,84%,1.6 km/h,1018 mbar,10.1,,,,,,Tốt
+Trời quang,9°C,57%,7.4 km/h,1010 mbar,7.4,,,,,,Tốt
+Nhiều mây,-1°C,94%,5.5 km/h,1023 mbar,9.1*,,,,,,Tốt
+Nhiều mây,0°C,75%,4.8 km/h,1020 mbar,2.1,13,24,,,,Tốt
+Trời quang,9°C,58%,4.8 km/h,1024 mbar,8.1*,,,,,,Tốt
+Trời quang,2°C,65%,0 km/h,1025 mbar,6.1*,,,,,,Tốt
+Trời quang,1°C,53%,9 km/h,1028 mbar,5.2,,,,,,Tốt
+Nhiều mây,2°C,62%,9.3 km/h,1024 mbar,7.6,,,,,,Tốt
+Nhiều mây,1°C,80%,18.5 km/h,1024 mbar,23.1*,,,,,,Trung bình
+Nhiều mây,10°C,90%,0.8 km/h,1027 mbar,16.5,37.5,58,11.5,4.5,500,Trung bình
+Trời quang,-5°C,72%,6.1 km/h,1014 mbar,42,30,1,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-6°C,72%,7 km/h,1014 mbar,59,70,,,6.9,,Không lành mạnh
+Nhiều mây,0°C,74%,10.4 km/h,1003 mbar,20.1*,,18.3*,29.2*,,,Trung bình
+Nhiều mây,-1°C,86%,14.8 km/h,1005 mbar,13,,,,,,Trung bình
+Nhiều mây,-2°C,85%,9.3 km/h,1008 mbar,45,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,-8°C,95%,6.3 km/h,1016 mbar,34,16.6,,,,,Trung bình
+Nhiều mây,-2°C,90%,14.7 km/h,1010 mbar,12.3,13.2,,,,,Trung bình
+Ít mây,-2°C,91%,8.1 km/h,1012 mbar,16.1,18.9,,,,,Trung bình
+Trời quang,-2°C,71%,10.1 km/h,1015 mbar,14.1*,,,,,,Trung bình
+Mây rải rác,1°C,63%,32.7 km/h,1024 mbar,5.1*,,,,,,Tốt
+Nhiều mây,0°C,95%,6.8 km/h,1005 mbar,29,,,,,,Trung bình
+Trời quang,12°C,67%,5.5 km/h,1018 mbar,21.7,,10,41.4,,0,Trung bình
+Trời quang,11°C,60%,9.3 km/h,1018 mbar,8.1*,,,,,,Tốt
+Ít mây,12°C,68%,7.4 km/h,1018 mbar,13.9,,,,,,Trung bình
+Trời quang,5°C,77%,4.4 km/h,1020 mbar,1.6,,,,,,Tốt
+Ít mây,12°C,67%,7.4 km/h,1018 mbar,31.4,,,,,,Trung bình
+Ít mây,12°C,69%,5.5 km/h,1018 mbar,18.1,,,,,,Trung bình
+Ít mây,12°C,69%,5.5 km/h,1018 mbar,18.1,,,,,,Trung bình
+Nhiều mây,11°C,76%,13 km/h,1018 mbar,7.1*,,,,,,Tốt
+Ít mây,3°C,93%,5.7 km/h,1020 mbar,0.9,,,,,,Tốt
+Nhiều mây,9°C,79%,16.7 km/h,1024 mbar,15.4,,,,,,Trung bình
+Nhiều mây,2°C,77%,22.2 km/h,1023 mbar,29.3,,,,,,Trung bình
+Nhiều mây,2°C,80%,22.2 km/h,1022 mbar,2.7,,,,,,Tốt
+Nhiều mây,2°C,76%,22.2 km/h,1021 mbar,23.2,,,,,,Trung bình
+Nhiều mây,-5°C,86%,2 km/h,1018 mbar,15.2,,,,,,Trung bình
+Nhiều mây,-9°C,89%,7.1 km/h,1024 mbar,19.6,,,,,,Trung bình
+Ít mây,7°C,60%,3.2 km/h,1026 mbar,7.1*,,,,,,Tốt
+Nhiều mây,1°C,67%,5.5 km/h,1026 mbar,6.6,,,,,,Tốt
+Mây rải rác,16°C,79%,20.4 km/h,1003 mbar,2.1*,,,,,,Tốt
+Sương mù,0°C,91%,0 km/h,1022 mbar,14.3,,,,,,Trung bình
+Trời quang,3°C,62%,7.4 km/h,1026 mbar,9.7,,,,,,Tốt
+Nhiều mây,-1°C,92%,3.8 km/h,1026 mbar,7,,,,,,Tốt
+Nhiều mây,1°C,84%,18.5 km/h,1022 mbar,13.1*,,,,,,Trung bình
+Mây rải rác,-2°C,80%,1 km/h,1011 mbar,30,33,,,,,Trung bình
+Nhiều mây,-1°C,84%,9.6 km/h,1006 mbar,29.5,43,1,,,,Trung bình
+Nhiều mây,33°C,42%,4.9 km/h,1007 mbar,2.3,,,,,,Tốt
+Nhiều mây,25°C,76%,17.4 km/h,1005 mbar,2,7,,12,,,Tốt
+Trời quang,17°C,71%,13.2 km/h,1019 mbar,37,55,102,22,6,700,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,-9°C,82%,4.8 km/h,1014 mbar,20,28,4.4,,12.2,,Trung bình
+Nhiều mây,-2°C,85%,9.3 km/h,1010 mbar,21.3,26,26.3,34.8,,,Trung bình
+Trời quang,-3°C,72%,5.5 km/h,1015 mbar,13.1*,,,,,,Trung bình
+Nhiều mây,12°C,92%,5.5 km/h,1005 mbar,6.1*,,,,,,Tốt
+Nhiều mây,12°C,92%,12.9 km/h,1003 mbar,4.1*,,,,,,Tốt
+Mây rải rác,1°C,65%,2.5 km/h,1012 mbar,13.5,14.6,22,44.6,2.7,,Trung bình
+Nhiều mây,10°C,54%,25.9 km/h,1017 mbar,24,28,,9.4,0,,Trung bình
+Nhiều mây,0°C,75%,1.8 km/h,1014 mbar,7,,,,,,Tốt
+Trời quang,30°C,29%,5 km/h,1007 mbar,44.9,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,-14°C,36%,20.4 km/h,1029 mbar,2.1*,,,,,,Tốt
+Nhiều mây,2°C,81%,3.7 km/h,1013 mbar,21.1*,,,,,,Trung bình
+Nhiều mây,19°C,76%,7.9 km/h,1013 mbar,63,,,,,,Không lành mạnh
+Trời quang,5°C,83%,5.5 km/h,1020 mbar,30,,,,,,Trung bình
+Trời quang,7°C,80%,13 km/h,1021 mbar,6.1,,,,,,Tốt
+Ít mây,12°C,68%,7.4 km/h,1018 mbar,23.6,,,,,,Trung bình
+Nhiều mây,9°C,72%,22.2 km/h,1020 mbar,24,,,,,,Trung bình
+Nhiều mây,9°C,69%,20.4 km/h,1024 mbar,22.1,,,,,,Trung bình
+Trời quang,5°C,71%,16.7 km/h,1014 mbar,16.2,,,,,,Trung bình
+Nhiều mây,0°C,76%,18.5 km/h,1023 mbar,23.7,,,,,,Trung bình
+Nhiều mây,13°C,1%,11.1 km/h,1022 mbar,35,57,70,19,6.5,600,Trung bình
+Nhiều mây,22°C,85%,6.5 km/h,1013 mbar,36.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,3°C,49%,20.3 km/h,1032 mbar,52,243.5,37.5,24,8.5,600,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,9°C,86%,3.3 km/h,1016 mbar,50,72,18,47.5,11,1300,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,20°C,97%,9.3 km/h,1015 mbar,36.8,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,6°C,59%,0.8 km/h,1029 mbar,62,121.5,19,53.5,5.5,893,Không lành mạnh
+Trời quang,10°C,52%,9.9 km/h,1022 mbar,45,66,78.5,24,5,500,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-16°C,48%,25.5 km/h,1020 mbar,14,79.5,49.5,6,8,500,Trung bình
+Nhiều mây,22°C,80%,15.1 km/h,1013 mbar,7.8,26,,,7.2,,Tốt
+Nhiều mây,10°C,74%,3.9 km/h,1028 mbar,108,146.5,4,40.5,12.5,1200,Không lành mạnh
+Trời quang,9°C,76%,2.6 km/h,1016 mbar,23.5,32.5,26.5,12,6,600,Trung bình
+Nhiều mây,10°C,78%,11.5 km/h,1011 mbar,26.7,41.4,14.3,,,,Trung bình
+Trời quang,-9°C,45%,2.6 km/h,1035 mbar,26,35.5,,11.5,6,,Trung bình
+Trời quang,-9°C,41%,14.5 km/h,1033 mbar,14,15,85,7,11,200,Trung bình
+Trời quang,10°C,32%,0.6 km/h,1017 mbar,7.1*,,,,,,Tốt
+Trời quang,16°C,39%,5.5 km/h,1026 mbar,48.2,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,3°C,87%,7.4 km/h,1017 mbar,159.4,,,,,,Rất không lành mạnh
+Trời quang,4°C,41%,13.2 km/h,1032 mbar,38.5,126.5,35.5,26,5.5,450,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,17°C,34%,5.6 km/h,1018 mbar,14.1*,,,,,,Trung bình
+Nhiều mây,-22°C,77%,5.3 km/h,1028 mbar,22,,,,,,Trung bình
+Trời quang,21°C,63%,9.9 km/h,1017 mbar,23,42,86.1,59.7,12.9,,Trung bình
+Trời quang,4°C,43%,16.6 km/h,1032 mbar,42.5,154,37,31,8.5,500,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,26°C,54%,9.3 km/h,1013 mbar,29,,,,,,Trung bình
+Mưa,20°C,66%,6.9 km/h,1015 mbar,16.1,28.3,63.6,5.6,3.4,,Trung bình
+Trời quang,-3°C,36%,12.6 km/h,1034 mbar,15,58,42,18,6,550,Trung bình
+Trời quang,1°C,44%,6 km/h,1034 mbar,57,169.5,19,39.5,9.5,400,Không lành mạnh
+Trời quang,-9°C,25%,4.5 km/h,1037 mbar,13,97,2,50,6,400,Trung bình
+Trời quang,-14°C,30%,23.4 km/h,1029 mbar,9,42,55,3,6,300,Tốt
+Trời quang,18°C,39%,6.5 km/h,1016 mbar,5.4,,,,,,Tốt
+Trời quang,-8°C,43%,0.6 km/h,1032 mbar,43,125.5,29,34,15,715,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,18°C,43%,16.6 km/h,1017 mbar,28,,,,,,Trung bình
+Nhiều mây,0°C,66%,4.4 km/h,1014 mbar,56,,,,17.9,,Không lành mạnh
+Trời quang,18°C,39%,6.5 km/h,1016 mbar,5.4,,,,,,Tốt
+Nhiều mây,-4°C,89%,8.1 km/h,1012 mbar,56.5,,,,,,Không lành mạnh
+Trời quang,-15°C,30%,5.7 km/h,1036 mbar,26,53,9,43,14,600,Trung bình
+Trời quang,-7°C,29%,2.9 km/h,1033 mbar,23,60,31,32,16.5,550,Trung bình
+Trời quang,-14°C,31%,24 km/h,1030 mbar,13,27,45,12.5,8,550,Trung bình
+Mây rải rác,8°C,78%,4.3 km/h,1017 mbar,24.1*,,,,,,Trung bình
+Nhiều mây,4°C,93%,1.8 km/h,1017 mbar,42,81.7,5.7,,,,Không lành mạnh cho các nhóm nhạy cảm
+Sương mù,8°C,87%,3.7 km/h,1017 mbar,73.2*,,,,,,Không lành mạnh
+Ít mây,-10°C,56%,7.1 km/h,1032 mbar,32.5,66,20,50.5,7,900,Trung bình
+Nhiều mây,0°C,92%,3.6 km/h,1022 mbar,48,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,2°C,35%,6.3 km/h,1018 mbar,10.1*,,,,,,Tốt
+Nhiều mây,13°C,89%,43.1 km/h,1002 mbar,1,,,,,,Tốt
+Nhiều mây,1°C,79%,3.7 km/h,1009 mbar,17,39,3,56,,,Trung bình
+Mây rải rác,-7°C,78%,4.7 km/h,1033 mbar,10.1*,,,,,,Tốt
+Nhiều mây,7°C,67%,12.3 km/h,1028 mbar,59,81,21,38,54,681,Không lành mạnh
+Trời quang,9°C,38%,20.5 km/h,1024 mbar,63,83,118,12,12,600,Không lành mạnh
+Ít mây,23°C,79%,11.1 km/h,1013 mbar,38.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,3°C,46%,4.9 km/h,1032 mbar,55.5,116,40,25,5,,Không lành mạnh
+Tuyết,-3°C,90%,9.3 km/h,1026 mbar,51,83,76,17,11,550,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,20°C,93%,1.9 km/h,1014 mbar,40,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,4°C,62%,8.6 km/h,1029 mbar,33,80,12,31,8,631,Trung bình
+Nhiều mây,8°C,69%,8.9 km/h,1028 mbar,39,69,36,20,4.5,523,Không lành mạnh cho các nhóm nhạy cảm
+Tuyết,0°C,68%,28.4 km/h,1026 mbar,5.3,,,,,,Tốt
+Nhiều mây,14°C,45%,23 km/h,1021 mbar,43,77,81,21,13,500,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,4°C,67%,6.1 km/h,1015 mbar,60.7,,,,,,Không lành mạnh
+Trời quang,23°C,85%,9.2 km/h,1011 mbar,39.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Tuyết,1°C,70%,10 km/h,1014 mbar,62,,,,,,Không lành mạnh
+Ít mây,16°C,51%,14.8 km/h,1026 mbar,26.1,,,,,,Trung bình
+Mây rải rác,-2°C,88%,12.6 km/h,1012 mbar,17.6,19.1,,10.4,,,Trung bình
+Nhiều mây,1°C,93%,5.8 km/h,1011 mbar,36.6,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,18°C,59%,9.3 km/h,1015 mbar,14.1*,,,,,,Trung bình
+Trời quang,-1°C,80%,2.7 km/h,1015 mbar,38,56.1,17,26.2,3.4,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,32°C,17%,20.4 km/h,1009 mbar,7,,,,,,Tốt
+Mây rải rác,28°C,64%,13.3 km/h,1010 mbar,29.2*,,,,,,Trung bình
+Trời quang,-16°C,28%,18.1 km/h,1035 mbar,9.5,25.5,45,14,17,300,Tốt
+Nhiều mây,5°C,87%,5.4 km/h,1012 mbar,5.1*,,,,,,Tốt
+Nhiều mây,-18°C,74%,23.1 km/h,1016 mbar,11.5,33.5,38,10,9,350,Tốt
+Nhiều mây,10°C,49%,3 km/h,1024 mbar,39,131.5,6,59,9,1000,Không lành mạnh cho các nhóm nhạy cảm
+Tuyết,-1°C,78%,54.4 km/h,1026 mbar,9.7,,,,,,Tốt
+Nhiều mây,9°C,78%,8.6 km/h,1010 mbar,28,56.2,,,15.5,,Trung bình
+Nhiều mây,3°C,83%,1.2 km/h,1013 mbar,24.1*,,,,,,Trung bình
+Nhiều mây,24°C,54%,6.8 km/h,1013 mbar,8.6,8.8,,11.4,7.1,,Tốt
+Nhiều mây,24°C,90%,9.5 km/h,1008 mbar,8.2,,,,,,Tốt
+Nhiều mây,7°C,74%,2.6 km/h,1030 mbar,104,152.5,6,15,15,1600,Không lành mạnh
+Nhiều mây,-19°C,72%,17.3 km/h,1025 mbar,14.5,179.5,56,4,6,550,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,25°C,94%,3.7 km/h,1012 mbar,21.1,,,,,,Trung bình
+Trời quang,17°C,89%,1.9 km/h,1014 mbar,38.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mưa,24°C,94%,0 km/h,1009 mbar,6.7,,,,,,Tốt
+Nhiều mây,20°C,97%,2.4 km/h,1014 mbar,60.2*,,,,,,Không lành mạnh
+Trời quang,31°C,19%,20.4 km/h,979 mbar,7,,,,,,Tốt
+Nhiều mây,0°C,93%,3.7 km/h,1012 mbar,85.7,,,,,,Không lành mạnh
+Ít mây,8°C,33%,3.9 km/h,1018 mbar,13.1*,,,,,,Trung bình
+Ít mây,27°C,71%,18.7 km/h,1010 mbar,31,,,,,,Trung bình
+Nhiều mây,8°C,73%,6 km/h,1026 mbar,33,64,81,14,11,500,Trung bình
+Nhiều mây,0°C,88%,7.1 km/h,1013 mbar,1.1*,,,,,,Tốt
+Trời quang,16°C,77%,7 km/h,1014 mbar,50.2,93,122.8,16.2,3.4,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-8°C,62%,23.5 km/h,1026 mbar,10.5,67,,,,,Trung bình
+Ít mây,28°C,36%,2 km/h,1007 mbar,20.5,,,,,,Trung bình
+Nhiều mây,6°C,68%,8.2 km/h,1024 mbar,58,72,63.5,16,3.5,600,Không lành mạnh
+Mây rải rác,7°C,79%,4.2 km/h,1019 mbar,20,32,45,9,4,700,Trung bình
+Mây rải rác,1°C,74%,3.2 km/h,1008 mbar,,,,30,,0.5,Tốt
+Nhiều mây,10°C,79%,10 km/h,1014 mbar,29.4,50.1,26.1,,,,Trung bình
+Sương mù,23°C,94%,7.4 km/h,1014 mbar,27.2*,,,,,,Trung bình
+Ít mây,6°C,87%,4.8 km/h,1020 mbar,18,,28,,,,Trung bình
+Trời quang,-8°C,90%,6.7 km/h,1014 mbar,51.4,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,21°C,74%,10 km/h,1013 mbar,2,,,,,,Tốt
+Nhiều mây,0°C,72%,8.6 km/h,1015 mbar,27.9,33.3,,34.6,102.1,,Trung bình
+Trời quang,6°C,92%,3.6 km/h,1016 mbar,30.5,39,35,21.5,5.5,600,Trung bình
+Ít mây,5°C,98%,6.2 km/h,1019 mbar,30,41,23,29.5,11,800,Trung bình
+Nhiều mây,8°C,86%,9.2 km/h,1024 mbar,51,51.5,63.5,15,5,800,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,16°C,60%,5 km/h,1021 mbar,112,,,,,,Không lành mạnh
+Trời quang,12°C,30%,8.6 km/h,1019 mbar,9.1*,,,,,,Tốt
+Nhiều mây,22°C,85%,6.5 km/h,1013 mbar,36.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,18°C,82%,5.5 km/h,1018 mbar,23.1*,,,,,,Trung bình
+Ít mây,25°C,82%,13 km/h,1012 mbar,10.6,15.9,1.1,2.1,,,Tốt
+Trời quang,17°C,76%,11.1 km/h,1013 mbar,61.7,,,112.6,,,Không lành mạnh
+Nhiều mây,0°C,85%,0.3 km/h,1003 mbar,23.1*,,,,,,Trung bình
+Nhiều mây,-4°C,92%,10.7 km/h,1015 mbar,13.1*,,,,14.5*,,Trung bình
+Ít mây,23°C,74%,0 km/h,1014 mbar,56,,,,,,Không lành mạnh
+Nhiều mây,20°C,82%,8.6 km/h,1013 mbar,50,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,13°C,1%,11.1 km/h,1022 mbar,35,57,70,19,6.5,600,Trung bình
+Nhiều mây,3°C,60%,13.7 km/h,1027 mbar,55,74,72.5,17,20.5,450,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,4°C,39%,5 km/h,1032 mbar,54,114,7.5,27,10,1344,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,20°C,66%,3.9 km/h,1011 mbar,26.2*,,,,,,Trung bình
+Nhiều mây,12°C,93%,1.7 km/h,1023 mbar,58,16,21,23,8,600,Không lành mạnh
+Nhiều mây,5°C,45%,6.5 km/h,1030 mbar,42.5,86,41,26,4,700,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,-1°C,82%,4.8 km/h,1015 mbar,33,47,,,4.1,,Trung bình
+Nhiều mây,1°C,91%,4.5 km/h,1011 mbar,20.8,30.3,,31.5,1.2,0.4,Trung bình
+Trời quang,27°C,37%,4.1 km/h,1009 mbar,44.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,0°C,77%,9.3 km/h,1011 mbar,60.8,,,,,,Không lành mạnh
+Ít mây,5°C,96%,7.6 km/h,1018 mbar,31,44,,31,8,,Trung bình
+Ít mây,8°C,89%,9 km/h,1017 mbar,47,62,30,25,9,600,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,8°C,89%,8.9 km/h,1017 mbar,51,73,18,40,8,400,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,22°C,61%,12.9 km/h,1013 mbar,69.8,,,,,,Không lành mạnh
+Trời quang,-13°C,28%,13.6 km/h,1035 mbar,3.5,12,57,3,1.5,200,Tốt
+Ít mây,15°C,99%,0.8 km/h,1015 mbar,23,21.5,29.5,11,7.5,750,Trung bình
+Ít mây,9°C,70%,8.1 km/h,1005 mbar,64.7,,,,,,Không lành mạnh
+Trời quang,26°C,84%,6.9 km/h,1013 mbar,5.9,16,5.3,,,,Tốt
+Nhiều mây,5°C,45%,6.3 km/h,1018 mbar,25.2*,,,,,,Trung bình
+Nhiều mây,2°C,78%,7.1 km/h,1011 mbar,36.6,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Tuyết,-3°C,68%,33.5 km/h,1026 mbar,2.1*,,,,,,Tốt
+Mưa,7°C,94%,7.2 km/h,1011 mbar,32.2,,0,,,,Trung bình
+Nhiều mây,28°C,28%,3.2 km/h,1006 mbar,49.1,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-5°C,88%,16.7 km/h,1011 mbar,27.6,28.2,,,4.4,,Trung bình
+Nhiều mây,9°C,69%,10.5 km/h,1023 mbar,39,60,74.5,18,10,700,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,7°C,54%,12.7 km/h,1032 mbar,44.5,156,27,47.5,11,900,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,2°C,68%,5.4 km/h,1020 mbar,11.1*,,,,,,Tốt
+Trời quang,17°C,76%,11.1 km/h,1014 mbar,36.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Tuyết,-8°C,79%,18.4 km/h,1026 mbar,24,,,,,,Trung bình
+Trời quang,17°C,64%,5.6 km/h,1021 mbar,55.1,79.5,,,,1,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,13°C,61%,11.6 km/h,1020 mbar,50.5,75.5,87.5,18,15,650,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-11°C,81%,7 km/h,1035 mbar,20,39,33,32.5,4,600,Trung bình
+Nhiều mây,8°C,71%,1.8 km/h,1011 mbar,49.3,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,1°C,90%,3.7 km/h,1009 mbar,63,,,,,,Không lành mạnh
+Nhiều mây,20°C,66%,5.3 km/h,1014 mbar,39.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-9°C,75%,3.7 km/h,1034 mbar,34,95,16,48,9,1000,Trung bình
+Ít mây,-7°C,95%,5.4 km/h,1016 mbar,15,16,,,5.9,,Trung bình
+Tuyết,-7°C,91%,18.7 km/h,1026 mbar,9.3,,,,,,Tốt
+Nhiều mây,17°C,69%,10.9 km/h,1015 mbar,43.5,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Mưa,7°C,91%,8.2 km/h,1015 mbar,22.2,22.1,1.3,,8.9,0,Trung bình
+Trời quang,30°C,17%,16.7 km/h,1013 mbar,10,56.5,91,8.4,6.2,188.9,Trung bình
+Ít mây,4°C,61%,9 km/h,1030 mbar,24,77,4,39,4,896,Trung bình
+Trời quang,-2°C,81%,2.9 km/h,1015 mbar,27.6,34.7,26.6,22.4,4.9,,Trung bình
+Nhiều mây,-3°C,89%,14.6 km/h,1012 mbar,32.3,34.4,,,,,Trung bình
+Tuyết,-3°C,76%,24 km/h,1026 mbar,2.1*,,,,,,Tốt
+Nhiều mây,17°C,69%,10.9 km/h,1015 mbar,43.5,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,7°C,94%,5.4 km/h,1014 mbar,20.3,47.8,9.7,,,402.6,Trung bình
+Nhiều mây,6°C,38%,10.9 km/h,1028 mbar,29,51.5,,17,6.5,,Trung bình
+Nhiều mây,6°C,54%,8.7 km/h,1028 mbar,55.5,74.5,44.5,34.5,15,800,Không lành mạnh
+Mây rải rác,-17°C,48%,22.6 km/h,1019 mbar,19.5,31,40,7,5.5,,Trung bình
+Nhiều mây,10°C,55%,9.9 km/h,1029 mbar,34,57.5,,38,,550,Trung bình
+Nhiều mây,7°C,68%,8.7 km/h,1014 mbar,34.9,,,,,,Trung bình
+Nhiều mây,11°C,94%,9.3 km/h,1011 mbar,35.6,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-5°C,88%,3.4 km/h,1016 mbar,45.3,50.5,,73.7,,,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,9°C,73%,4.8 km/h,1022 mbar,42,83,40,36,14,600,Không lành mạnh cho các nhóm nhạy cảm
+Mây rải rác,13°C,91%,3.9 km/h,1016 mbar,12,23,35,9,5,600,Tốt
+Nhiều mây,23°C,69%,6.4 km/h,1013 mbar,14.5,,,,,,Trung bình
+Nhiều mây,-2°C,90%,13 km/h,1011 mbar,88.1,,,,,,Không lành mạnh
+Trời quang,26°C,52%,8 km/h,1013 mbar,23.1*,,,,,,Trung bình
+Nhiều mây,0°C,57%,5 km/h,1015 mbar,51,64.9,7.2,36.9,4.9,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-8°C,56%,23.8 km/h,1027 mbar,6,60,50,1.9,10.5,114.5,Trung bình
+Mây rải rác,13°C,65%,6.6 km/h,1023 mbar,47,66,62,31,12,700,Không lành mạnh cho các nhóm nhạy cảm
+Tuyết,0°C,95%,10.5 km/h,1027 mbar,14.5,16.5,43,10,6,600,Trung bình
+Nhiều mây,-7°C,96%,8.4 km/h,1015 mbar,20.4,24,,41.6,,,Trung bình
+Ít mây,26°C,81%,0 km/h,1009 mbar,25,,,,,,Trung bình
+Nhiều mây,-2°C,94%,4.4 km/h,1026 mbar,24.4,,,,,,Trung bình
+Nhiều mây,8°C,60%,9.9 km/h,1027 mbar,43,72,72,16.5,12,584,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,16°C,65%,3.2 km/h,1017 mbar,49.5,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Tuyết,-7°C,80%,54.7 km/h,1026 mbar,6,,,,,,Tốt
+Nhiều mây,21°C,67%,12.8 km/h,1013 mbar,36.2*,,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,20°C,79%,9.3 km/h,1014 mbar,27,,,,,,Trung bình
+Mây rải rác,28°C,34%,3.2 km/h,1006 mbar,14,,,,,,Trung bình
+Nhiều mây,20°C,74%,5.9 km/h,1016 mbar,16.9,27.4,,,3.9,,Trung bình
+Nhiều mây,-8°C,61%,24 km/h,1027 mbar,1,46,60,1.9,10.5,343.5,Tốt
+Nhiều mây,8°C,40%,2.4 km/h,1018 mbar,19.1*,,,,,,Trung bình
+Trời quang,20°C,34%,11.1 km/h,1024 mbar,42,78,,,2.6,2209.9,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,-1°C,86%,7.4 km/h,1022 mbar,18.7,,,,,,Trung bình
+Nhiều mây,9°C,56%,16.5 km/h,1022 mbar,41,60,71,,4.5,700,Không lành mạnh cho các nhóm nhạy cảm
+Trời quang,17°C,67%,7.5 km/h,1014 mbar,73.7,,,,,,Không lành mạnh
+Nhiều mây,3°C,86%,2.4 km/h,1013 mbar,40,54.9,,22.2,4,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-4°C,98%,7.5 km/h,1017 mbar,36.4,40.5,,,,,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,-19°C,58%,24.2 km/h,1021 mbar,20,33,60,8,2,200,Trung bình
+Sương mù,25°C,78%,3.7 km/h,1011 mbar,50.5,80,10,6.4,4,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,-7°C,93%,2.9 km/h,1016 mbar,,,3.2,,,,Tốt
+Nhiều mây,6°C,54%,13.6 km/h,1030 mbar,33,117,40,39,11,600,Trung bình
+Nhiều mây,-8°C,62%,23.5 km/h,1026 mbar,10.5,67,,,,,Trung bình
+Trời quang,16°C,77%,7 km/h,1014 mbar,50.2,93,122.8,16.2,3.4,,Không lành mạnh cho các nhóm nhạy cảm
+Nhiều mây,8°C,73%,6 km/h,1026 mbar,33,64,81,14,11,500,Trung bình
+Nhiều mây,-18°C,77%,8 km/h,1007 mbar,28,43.5,53,7,10,273,Trung bình
+Trời quang,2°C,64%,4.8 km/h,1031 mbar,47,67,26,24,5,500,Không lành mạnh cho các nhóm nhạy cảm
+Ít mây,28°C,36%,2 km/h,1007 mbar,20.5,,,,,,Trung bình
