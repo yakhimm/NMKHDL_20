@@ -1,2 +1,2 @@
 #!/bin/bash
-python ./data/main.py
+python ../data/main.py

@@ -5,7 +5,7 @@ from gets import get_weather_air
 import time
 
 #Tạo list chứa danh sách url
-lst = np.genfromtxt('./data/url.csv', dtype = 'str')
+lst = np.genfromtxt('../data/url.csv', dtype = 'str')
 lst = lst[1:]
 
 df_list = []
@@ -22,7 +22,7 @@ for i in range(len(lst)):
 df = pd.concat(df_list, axis = 1).T 
 today = date.today()
 d = today.strftime("%b-%d-%Y")
-df.to_csv(f'./data/data/{d}.csv', index = False)
+df.to_csv(f'../data/data/{d}.csv', index = False)
 
 print('SUCCESSFUL !!')
 time.sleep(2)
