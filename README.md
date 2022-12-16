@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/94270107/201021134-805bd9ff-b8de-4d30-b999-5c051296004e.png)
 #### 2) Thông tin dữ liệu:
 - Sau khi crawl dữ liệu về thì sẽ có tên: iqair_country_2017-2021.csv (hoặc json)
-- Mỗi dòng có ý nghĩa là một thành phố trên thế giới, không có ý nghĩa khác nhau.
+- Mỗi dòng có ý nghĩa là một thành phố trên thế giới.
 - Mỗi cột có ý nghĩa:
   - Cột Thành phố: Tên các thành phố và quốc gia tương ứng
   - Cột 2017 - 2021: Nồng độ PM2.5 được đo tại mỗi thành phố trên thế giới trong từng năm (Từ 2017 - 2021)
@@ -36,13 +36,15 @@
 - Hầu như các cột đều có dữ liệu là float, khoảng dữ liệu biểu diễn [0, +oo]. Tuy nhiên cột thành phố có kiểu dữ liệu là string và có thể tiền xử lý là phân tách thành 2 cột khác nhau, 1 cột là Thành phố, 1 cột là Quốc gia.
 - Với mỗi cột dữ liệu phân bố tương đối đều, tuy nhiên có một số cột sẽ không có đủ dữ liệu do có thể là thời gian đó không có người ghi nhận tình hình nên không thể thống kê số liệu cụ thể.
 ### C. Đặt câu hỏi có ý nghĩa để trả lời:
-- **CÂU 1**: Đâu là thành phố, quốc gia có mật độ ô nhiễm cao nhất, thấp nhất trong 5 năm 2017 - 2021.
-- **CÂU 2**: Việt Nam nằm trong top bao nhiêu, với mật độ ô nhiễm là bao nhiêu qua từng năm (2017 - 2021).
-- **CÂU 3**: Địa điểm nào tại Việt Nam có mật độ ô nhiễm cao nhất, thấp nhất trong 5 năm 2017 - 2021. Dựa trên dự đoán của 2022 thì đâu là địa điểm có khí hậu tốt nhất vào cuối năm (tháng 12) 2022.
-- **CÂU 4**:
-- **CÂU 5**:
-...
-## III. CÔNG CỤ ĐỂ THỰC HIỆN PROJECT:
+- **Câu hỏi 1**: Đâu la top 5 thanh phô, quôc gia có mật độ ô nhiễm cao nhất, thấp nhất trong 5 năm 2017 - 2021? Với mỗi thanh phô, quôc gia cao nhất, thấp nhất trong năm 2022 mật độ ô nhiễm biến đổi như thế nao theo
+các tháng? Thử giải thich.
+- **Câu hỏi 2**: Việt Nam nằm trong top bao nhiêu, với mật độ ô nhiễm là bao nhiêu qua từng năm (2017 - 2021). Có sự thay đổi như nao ở Việt Nam trong giai đoạn nay và sự thay đổi nay là tốt hay xấu ? Thử giải thich.
+- **Cẩu hỏi 3**: Tháng nao trong năm 2022 sẽ có mức độ ô nhiễm cao nhất cũng như thành phố nào ô nhiễm nhất trong 12 tháng qua, và sự thay đổi của không khi Việt Nam từ 2017 đến 2022.
+- **Câu hỏi 4**: Thành phố thuộc quốc gia nào có sự thay đổi nhiều nhất (tăng ô nhiễm nhiều nhất, giảm ô nhiễm nhiều nhất) ? Giai đoạn nào là nhiều nhất? Tại sao?
+- **Câu hỏi 5**: Địa điểm, quôc gia nào có nhiều biến động về khi hậu lớn nhất trong 12 tháng của năm 2022, có thể chỉ ra tháng nào hay không ?
+## III. CÔNG CỤ. THƯ VIỆN ĐỂ THỰC HIỆN PROJECT:
 - Scrapy: https://docs.scrapy.org/en/latest/
 - Pandas: https://pandas.pydata.org/docs/reference/
 - Matplotlib: https://matplotlib.org/stable/plot_types/index
+- Seaborn: https://seaborn.pydata.org/tutorial
+- Scikit-learn: https://scikit-learn.org/stable/user_guide.html
